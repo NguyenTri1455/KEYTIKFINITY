@@ -89,7 +89,7 @@
     userId: "96416454-0102"
   }, {
     id: "ETW2SO-A4HR1O-CZV5JS-M2QUYQ-1DW50Y",
-    disabled: false,
+    disabled: true,
     userId: "thanh.onl-0912"
   }, {
     id: "0C1WS5-IZ3P9S-H91DX0-PLC1XT-NTW2PK",
@@ -111,6 +111,10 @@
     id: "GI68ES-68V3L5-RHQFUU-10KJU2-X724K0",
     disabled: false,
     userId: "tino_live-0901"
+  }, {
+    id: "7IEO1C-RJGFX4-HRSJSQ-TGB0R0-ISR7O5",
+    disabled: false,
+    userId: "yen.nhi.official-1201"
   }
 
 
