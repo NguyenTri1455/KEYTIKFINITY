@@ -113,6 +113,11 @@
     userId: "tino_live-0901"
   }, {
     id: "7IEO1C-RJGFX4-HRSJSQ-TGB0R0-ISR7O5",
+    disabled: true,
+    userId: "yen.nhi.official-1201 - DOIMAY"
+  }, 
+ {
+    id: "E5MEJ6-AZVZ2X-5NL25D-3X9G1P-G0683U",
     disabled: false,
     userId: "yen.nhi.official-1201"
   }, {
