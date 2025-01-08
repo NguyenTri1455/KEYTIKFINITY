@@ -90,7 +90,7 @@
   }, {
     id: "ETW2SO-A4HR1O-CZV5JS-M2QUYQ-1DW50Y",
     disabled: false,
-    userId: "thanh.onl-0901"
+    userId: "thanh.onl-0902"
   }, {
     id: "0C1WS5-IZ3P9S-H91DX0-PLC1XT-NTW2PK",
     disabled: false,
@@ -216,6 +216,10 @@
     id: "5ZHPTZ-O0CM4S-0DZCWE-F5Y8QM-4VJT82",
     disabled: false,
     userId: "KCuong - nhutieuthu43 - 0702"
+  }, {
+    id: "JO2BVN-UN8URO-TWX8B1-CAFN0W-4QW180",
+    disabled: false,
+    userId: "KKhanh - @nguyenloi0412 - 0902"
   }
 
 
