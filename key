@@ -57,8 +57,8 @@
     userId: "melon1-2801"
   }, {
     id: "RPI4G3-JEP37V-US6X2C-QNC14F-ZRJJZX",
-    disabled: false,
-    userId: "chuhuyvuive-2412"
+    disabled: true,
+    userId: "chuhuyvuive-2412 - hethan"
   }, {
     id: "BACY06-0RFE77-TMQOM5-194F0T-VXBN5P",
     disabled: false,
