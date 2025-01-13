@@ -118,12 +118,12 @@
   }, 
  {
     id: "E5MEJ6-AZVZ2X-5NL25D-3X9G1P-G0683U",
-    disabled: false,
-    userId: "yen.nhi.official-1201"
+    disabled: true,
+    userId: "yen.nhi.official-1201 - hethan"
   }, {
     id: "GPGZPC-ILHVT8-SZD3MU-85T3ET-XDJL2G",
-    disabled: false,
-    userId: "mrbugaming-1201"
+    disabled: true,
+    userId: "mrbugaming-1201 - hethan"
   }, {
     id: "CR3URT-M3KFJ4-25TE1N-Q0LCH5-ZGG58I",
     disabled: false,
