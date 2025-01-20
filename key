@@ -146,9 +146,13 @@
     userId: "thanhhuyenn_97 -1901 - hethan"
   }, {
     id: "ON7JL1-95MCUU-Q5JRHV-FMO1Z0-LMX90L",
+    disabled: true,
+    userId: "hoang.quan2k -1902 - may cu"
+  }, {
+    id: "YIQMR1-B9R9V0-IYYG5F-09BRB8-F23KFH",
     disabled: false,
     userId: "hoang.quan2k -1902"
-  }, {
+  },{
     id: "RFDK8B-HPV5MB-MTL4WX-DN0CQK-42EGVE",
     disabled: false,
     userId: "chieu.chiken CK Thao -1901"
