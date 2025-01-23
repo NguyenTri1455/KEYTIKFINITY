@@ -162,8 +162,8 @@
     userId: "100331205 -2001 - hethan"
   }, {
     id: "KJP0PU-78J28Z-W08R1B-GI5K4J-JW8OIQ",
-    disabled: false,
-    userId: "kenny_6789_ -2201"
+    disabled: true,
+    userId: "kenny_6789_ -2201 - hethan"
   }, {
     id: "U4D7JB-TR0CCW-Y1LZ9C-YQ31VF-IEBG3W",
     disabled: false,
