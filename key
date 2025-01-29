@@ -41,8 +41,8 @@
     userId: "77_quynhon-1812-hethan"
   }, {
     id: "TXXLY1-JZ6QMM-3JAF0L-R0GWW7-289X2W",
-    disabled: false,
-    userId: "belinhhh912-odi_mingtu-melon2-2801"
+    disabled: true,
+    userId: "belinhhh912-odi_mingtu-melon2-2801 - hethan"
   }, {
     id: "G33DLV-3F73KC-QVR1P0-QU85B9-6P8C1K",
     disabled: true,
@@ -53,8 +53,8 @@
     userId: "dang_thao_92-1612"
   }, {
     id: "0YX146-7NHXBM-L5DA09-YGVUYI-HCQ1ML",
-    disabled: false,
-    userId: "melon1-2801"
+    disabled: true,
+    userId: "melon1-2801 - hethan"
   }, {
     id: "RPI4G3-JEP37V-US6X2C-QNC14F-ZRJJZX",
     disabled: true,
@@ -69,16 +69,16 @@
     userId: "97819658-1212"
   }, {
     id: "63Y5N3-6ESVO8-O82KKD-6R7GWF-I9VVG5",
-    disabled: false,
-    userId: "jessi_1401_-2912"
+    disabled: true,
+    userId: "jessi_1401_-2912 - hethan"
   }, {
     id: "PWCKFB-37WTFT-UU2PJZ-QESOIC-UZUW5U",
     disabled: false,
     userId: "97772922-0501"
   }, {
     id: "5952ND-0HH39C-LO5EVD-Y42ET7-HU62J0",
-    disabled: false,
-    userId: "72904010-3012"
+    disabled: true,
+    userId: "72904010-3012 - hethan"
   }, {
     id: "VRN00P-Q2D0K5-8EMAKX-D093XI-T2TILS",
     disabled: false,
@@ -190,12 +190,12 @@
     userId: "Kgiau 88456705 @tanbaby.93 -2601 - hethan"
   }, {
     id: "891MPC-FNO1LV-MNFHIZ-KLUTVK-B9DAAT",
-    disabled: false,
-    userId: "zico1601 - 0101"
+    disabled: true,
+    userId: "zico1601 - 0101 - hethan"
   }, {
     id: "O5M8SV-M4YJXC-DR0ZZV-I25KL4-U4UOKM",
-    disabled: false,
-    userId: "ngothithuytrang050320 - 2801"
+    disabled: true,
+    userId: "ngothithuytrang050320 - 2801 - hethan"
   }, {
     id: "3IACNJ-DXQFIR-3QGCJ2-223TLH-XRY78F",
     disabled: false,
