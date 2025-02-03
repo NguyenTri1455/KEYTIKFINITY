@@ -210,12 +210,12 @@
     userId: "thaonhu - 0501"
   }, {
     id: "RS0930-I2GG1C-BXRS1X-04RY0U-NXU2HL",
-    disabled: false,
-    userId: "74303645 - 0302"
+    disabled: true,
+    userId: "74303645 - 0302 - hethan"
   }, {
     id: "2B2IT9-OIOY51-B2SXPK-LB1WIF-0O2C3A",
-    disabled: false,
-    userId: "KLuyen - bondemo - 0302"
+    disabled: true,
+    userId: "KLuyen - bondemo - 0302 - hethan"
   }, {
     id: "5ZHPTZ-O0CM4S-0DZCWE-F5Y8QM-4VJT82",
     disabled: false,
