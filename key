@@ -202,12 +202,12 @@
     userId: "luanxidau - 1702"
   }, {
     id: "GBGW0J-5WAQCY-5SYUXP-J6HF6C-2KLX1B",
-    disabled: true,
-    userId: "trongthaonhu - 0501 - HETHAN"
+    disabled: false,
+    userId: "trongthaonhu - 0503"
   }, {
     id: "KIPRM2-B56J9X-VUJHR3-KHZAOL-34POQW",
-    disabled: true,
-    userId: "thaonhu - 0501 - HETHAN"
+    disabled: false,
+    userId: "thaonhu - 0503"
   }, {
     id: "RS0930-I2GG1C-BXRS1X-04RY0U-NXU2HL",
     disabled: true,
