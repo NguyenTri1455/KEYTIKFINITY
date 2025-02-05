@@ -93,8 +93,8 @@
     userId: "thanh.onl-0902"
   }, {
     id: "0C1WS5-IZ3P9S-H91DX0-PLC1XT-NTW2PK",
-    disabled: false,
-    userId: "ledaiquan-0402"
+    disabled: true,
+    userId: "ledaiquan-0402 - HETHAN"
   }, {
     id: "VGZAUA-G0KJOO-Y27FUK-BGUB2Z-LK7UV8",
     disabled: false,
@@ -202,12 +202,12 @@
     userId: "luanxidau - 1702"
   }, {
     id: "GBGW0J-5WAQCY-5SYUXP-J6HF6C-2KLX1B",
-    disabled: false,
-    userId: "trongthaonhu - 0501"
+    disabled: true,
+    userId: "trongthaonhu - 0501 - HETHAN"
   }, {
     id: "KIPRM2-B56J9X-VUJHR3-KHZAOL-34POQW",
-    disabled: false,
-    userId: "thaonhu - 0501"
+    disabled: true,
+    userId: "thaonhu - 0501 - HETHAN"
   }, {
     id: "RS0930-I2GG1C-BXRS1X-04RY0U-NXU2HL",
     disabled: true,
