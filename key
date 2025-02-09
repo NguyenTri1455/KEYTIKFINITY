@@ -230,8 +230,8 @@
     userId: "KKhanh - @nguyenloi0412 - 0902"
   }, {
     id: "2M1H47-NGLAOI-CVC50B-YH3W8D-ZHNC4W",
-    disabled: false,
-    userId: "Kluyen - @shiheo0401 - 0902"
+    disabled: true,
+    userId: "Kluyen - @shiheo0401 - 0902 - hethan"
   }, {
     id: "ZWMREF-GE6YZ1-P0O2G9-WJ7AVO-OK1UJ6",
     disabled: false,
