@@ -65,8 +65,8 @@
     userId: "gau_truc2k4-2402"
   }, {
     id: "KIEVKP-SY0IYG-JZ43UO-UHN72N-C03LXT",
-    disabled: false,
-    userId: "97819658-1212"
+    disabled: true,
+    userId: "97819658-1212 - hethan"
   }, {
     id: "63Y5N3-6ESVO8-O82KKD-6R7GWF-I9VVG5",
     disabled: false,
@@ -126,8 +126,8 @@
     userId: "mrbugaming-1201 - hethan"
   }, {
     id: "CR3URT-M3KFJ4-25TE1N-Q0LCH5-ZGG58I",
-    disabled: false,
-    userId: "oanh.oanh15804-1201"
+    disabled: true,
+    userId: "oanh.oanh15804-1201 - hethan"
   }, {
     id: "M6CHQL-ZD5EZX-CB5VMJ-BEAEH9-7V3UA1",
     disabled: false,
