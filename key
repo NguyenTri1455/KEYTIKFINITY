@@ -370,8 +370,8 @@
     userId: "KTRIEUAUTO  - Myjunkim - 1503"
   }, {
     id: "8W61YI-I0AX8L-OYLIIH-492P9A-B3GDH1",
-    disabled: false,
-    userId: "KTRIEUAUTO  - quynh.alee - 1503"
+    disabled: true,
+    userId: "KTRIEUAUTO  - quynh.alee - 1503 - hethan"
   }, {
     id: "JJDW36-2JEVV1-L92WRG-ZXCBQI-13TWMQ",
     disabled: false,
