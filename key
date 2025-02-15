@@ -382,7 +382,7 @@
     userId: "KTRIEUAUTO  - ngc.nail.box - 1603"
   }, {
     id: "73NKP7-G40H4Q-TOX4FG-2K82Q0-8OSECE",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - utsball - 1703"
   }
 
