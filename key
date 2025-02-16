@@ -25,7 +25,7 @@
     userId: "aloigameming-2401"
   }, {
     id: "Q9307U-IXK9YG-00AYGD-BI9YS6-M58BZ7",
-    disabled: false,
+    disabled: true,
     userId: "thanhluyenzl-1612"
   }, {
     id: "N5QNUK-W6C9IM-Y5A2NJ-UDWGD1-51FSNV",
@@ -138,11 +138,11 @@
     userId: "ms.304tv -2402"
   }, {
     id: "JMHDZM-GZLRPN-TJ8Z46-FHWANF-X8NECR",
-    disabled: false,
+    disabled: true,
     userId: "sangjuno2001 -1601"
   }, {
     id: "5Y2JV0-FP2056-1PGCDR-3LDG6G-A9FRSA",
-    disabled: false,
+    disabled: true,
     userId: "97973853 -1602 Linh.drst02"
   }, {
     id: "N2M0D5-8CL22M-NIIKQ8-DTH7MO-7SHI2F",
