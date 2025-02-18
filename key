@@ -402,7 +402,7 @@
     userId: "KTRIEUAUTO  - monky_d_lucky - 1903"
   }, {
     id: "GS4GZR-MZU6KB-XNQ594-XDGCND-7Z91JS",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - 52034150 - 1903"
   }
 
