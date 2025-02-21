@@ -390,7 +390,7 @@
     userId: "KTRIEUAUTO  - utsball"
   }, {
     id: "M3DCT5-2XTN06-SN293R-733TIS-TZHV7J",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - hitabeshop - 1703"
   }, {
     id: "R40HVT-X6ITNA-MMBDLZ-Q1BCLA-EE9JO9",
