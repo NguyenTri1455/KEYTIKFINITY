@@ -274,6 +274,10 @@
     userId: "Pirey ZL - pibungbu2 - 0203"
   }, {
     id: "EL3V71-QSDQDH-LT49Z9-SIQJ45-OEXUBR",
+    disabled: true,
+    userId: "kmELON capybara1508  - 0303"
+  }, {
+    id: "YYIGJ2-VTUVW3-PSJZZY-A3ARXR-P3A6Y1",
     disabled: false,
     userId: "kmELON capybara1508  - 0303"
   }, {
