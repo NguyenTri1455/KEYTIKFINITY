@@ -81,7 +81,7 @@
     userId: "97772922-0501"
   }, {
     id: "5952ND-0HH39C-LO5EVD-Y42ET7-HU62J0",
-    disabled: false,
+    disabled: true,
     userId: "72904010-3002"
   }, {
     id: "VRN00P-Q2D0K5-8EMAKX-D093XI-T2TILS",
@@ -170,12 +170,12 @@
     userId: "100331205 -2001 - hethan"
   }, {
     id: "KJP0PU-78J28Z-W08R1B-GI5K4J-JW8OIQ",
-    disabled: false,
+    disabled: true,
     userId: "kenny_6789_ -2902"
   }, {
     id: "U4D7JB-TR0CCW-Y1LZ9C-YQ31VF-IEBG3W",
-    disabled: false,
-    userId: "NguyenDoZl_ - 0102"
+    disabled: true,
+    userId: "NguyenDoZl_ duyentit154 - 0102"
   }, {
     id: "MKFHM9-GHGD0B-TCC2T4-PTIU33-DAMLPK",
     disabled: true,
