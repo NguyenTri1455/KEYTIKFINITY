@@ -182,7 +182,7 @@
     userId: "101030118 -2501 - hethan"
   }, {
     id: "W9E7K7-PNKHC5-YU7G2P-18OW32-HUE6J2",
-    disabled: false,
+    disabled: true,
     userId: "96944778 -0303"
   }, {
     id: "RRXUF1-833Z22-8GATPI-KM7G5S-J289FN",
