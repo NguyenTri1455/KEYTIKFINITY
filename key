@@ -101,7 +101,7 @@
     userId: "thanh.onl-0904"
   }, {
     id: "0C1WS5-IZ3P9S-H91DX0-PLC1XT-NTW2PK",
-    disabled: false,
+    disabled: true,
     userId: "ledaiquan-0403"
   }, {
     id: "VGZAUA-G0KJOO-Y27FUK-BGUB2Z-LK7UV8",
@@ -198,11 +198,11 @@
     userId: "Kgiau 88456705 @tanbaby.93 -2601 - hethan"
   }, {
     id: "891MPC-FNO1LV-MNFHIZ-KLUTVK-B9DAAT",
-    disabled: false,
+    disabled: true,
     userId: "zico1601 - 0403"
   }, {
     id: "O5M8SV-M4YJXC-DR0ZZV-I25KL4-U4UOKM",
-    disabled: false,
+    disabled: true,
     userId: "ngothithuytrang050320 - 2801 - hethan"
   }, {
     id: "EM9RRM-QNVS0D-IUSCT0-3U5U29-LV8ZCH",
@@ -286,7 +286,7 @@
     userId: "kmELON capybara1508  - 0303"
   }, {
     id: "FGWJUI-9E7SN1-UD29IE-4Y9VN6-NWK96P",
-    disabled: false,
+    disabled: true,
     userId: "KTHAIHUNG catoichoi1908  - 0403"
   }, {
     id: "F3AJ7D-FIR7MS-E3UM35-DLLF1V-1OPZVM",
