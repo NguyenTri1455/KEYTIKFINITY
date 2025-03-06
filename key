@@ -77,7 +77,7 @@
     userId: "jessi_1401_- 0302"
   }, {
     id: "PWCKFB-37WTFT-UU2PJZ-QESOIC-UZUW5U",
-    disabled: false,
+    disabled: true,
     userId: "97772922-0501"
   }, {
     id: "5952ND-0HH39C-LO5EVD-Y42ET7-HU62J0",
@@ -298,7 +298,7 @@
     userId: "TuyenDao Zl - dqt.vlog - 0603"
   }, {
     id: "7HSU96-W60PAP-6KM337-DVGKOD-WOOSX8",
-    disabled: false,
+    disabled: true,
     userId: "KNGUYENTRI - 72379969 - 0603"
   }, {
     id: "FCJ6U1-DOHGWG-A5JRNV-FXIBUG-OFE36X",
