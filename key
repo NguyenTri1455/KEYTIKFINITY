@@ -29,11 +29,11 @@
     userId: "thanhluyenzl-1612"
   }, {
     id: "N5QNUK-W6C9IM-Y5A2NJ-UDWGD1-51FSNV",
-    disabled: false,
+    disabled: true,
     userId: "97924268- 0503"
   }, {
     id: "E6S1T9-449ME4-B36YFO-Q88GHC-6HY96Q",
-    disabled: false,
+    disabled: true,
     userId: "99348155- 0503"
   }, {
     id: "E40XYM-ELRW36-TJSPU4-1ED5HT-CMFNCF",
@@ -214,11 +214,11 @@
     userId: "luanxidau - 1702"
   }, {
     id: "GBGW0J-5WAQCY-5SYUXP-J6HF6C-2KLX1B",
-    disabled: false,
+    disabled: true,
     userId: "trongthaonhu - 0503"
   }, {
     id: "KIPRM2-B56J9X-VUJHR3-KHZAOL-34POQW",
-    disabled: false,
+    disabled: true,
     userId: "thaonhu - 0503"
   }, {
     id: "RS0930-I2GG1C-BXRS1X-04RY0U-NXU2HL",
