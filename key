@@ -226,7 +226,7 @@
     userId: "74303645 - 0302 - hethan"
   }, {
     id: "2B2IT9-OIOY51-B2SXPK-LB1WIF-0O2C3A",
-    disabled: false,
+    disabled: true,
     userId: "KLuyen - bondemo - 0302 "
   }, {
     id: "5ZHPTZ-O0CM4S-0DZCWE-F5Y8QM-4VJT82",
@@ -302,7 +302,7 @@
     userId: "KNGUYENTRI - 72379969 - 0603"
   }, {
     id: "FCJ6U1-DOHGWG-A5JRNV-FXIBUG-OFE36X",
-    disabled: false,
+    disabled: true,
     userId: "KLUYEN - sa_pycute - 0703"
   }, {
     id: "9KZZ9R-JSW729-BJBU4E-EPKQ1K-33V9NT",
