@@ -318,7 +318,7 @@
     userId: "KTRIEUAUTO - hanndun20 - 0903"
   }, {
     id: "C38VBO-VXTT5S-HRSTU1-TW4KM3-639YIL",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - chjbaeday - 0903"
   }, {
     id: "WXN11H-IHS4BL-XFY9VT-VR8ENI-OFWCAH",
@@ -343,7 +343,7 @@
   }, {
     id: "VQFO60-L54V0R-7ACL7D-L2LVQK-XEFF9X",
     disabled: true,
-    userId: "KTRIEUAUTO - 84672582 - 0903"
+    userId: "KTRIEUAUTO - 84672582 hanvhieuu - 0903"
   }, {
     id: "HO0EAP-RB9UYK-0KDYEG-WWO6YW-72F72I",
     disabled: false,
