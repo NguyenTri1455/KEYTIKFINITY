@@ -97,7 +97,7 @@
     userId: "96416454-0102-hethan"
   }, {
     id: "ETW2SO-A4HR1O-CZV5JS-M2QUYQ-1DW50Y",
-    disabled: false,
+    disabled: true,
     userId: "thanh.onl-0904"
   }, {
     id: "0C1WS5-IZ3P9S-H91DX0-PLC1XT-NTW2PK",
@@ -234,7 +234,7 @@
     userId: "KCuong - nhutieuthu43 - 0702 - hethan"
   }, {
     id: "JO2BVN-UN8URO-TWX8B1-CAFN0W-4QW180",
-    disabled: false,
+    disabled: true,
     userId: "KKhanh - @nguyenloi0412 - 0902"
   }, {
     id: "2M1H47-NGLAOI-CVC50B-YH3W8D-ZHNC4W",
