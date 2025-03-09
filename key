@@ -338,11 +338,11 @@
     userId: "KTRIEUAUTO - Thuong.thuong.0398 - 0903"
   }, {
     id: "CX2B2B-G148WE-OYC2D1-MEY1SH-2L44YE",
-    disabled: true,
+    disabled: false,
     userId: "KTRIEUAUTO - Thuong.thuong.0398 - 0903"
   }, {
     id: "VQFO60-L54V0R-7ACL7D-L2LVQK-XEFF9X",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - 84672582 - 0903"
   }, {
     id: "HO0EAP-RB9UYK-0KDYEG-WWO6YW-72F72I",
