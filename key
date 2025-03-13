@@ -618,6 +618,10 @@
     userId: "KTRIEUAUTO - thanhdat25251325 - 12 -04"
   }, {
     id: "SD8V83-OXWG6O-7A3M3G-93XWUG-394CKL",
+    disabled: true,
+    userId: "KTRIEUAUTO - lamdailyvlog - 12 -04"
+  }, {
+    id: "3ECQBY-TDVMKB-PA5HJA-E7EJEE-42FK05",
     disabled: false,
     userId: "KTRIEUAUTO - lamdailyvlog - 12 -04"
   }, {
