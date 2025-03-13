@@ -69,8 +69,8 @@
     userId: "gau_truc2k4-2402"
   }, {
     id: "KIEVKP-SY0IYG-JZ43UO-UHN72N-C03LXT",
-    disabled: false,
-    userId: "97819658-1203"
+    disabled: true,
+    userId: "KntrI 97819658-1203"
   }, {
     id: "63Y5N3-6ESVO8-O82KKD-6R7GWF-I9VVG5",
     disabled: false,
@@ -134,8 +134,8 @@
     userId: "mrbugaming-1201 - hethan"
   }, {
     id: "CR3URT-M3KFJ4-25TE1N-Q0LCH5-ZGG58I",
-    disabled: false,
-    userId: "oanh.oanh15804-1203"
+    disabled: true,
+    userId: "Kngtri 97819077  oanh.oanh15804-1203"
   }, {
     id: "M6CHQL-ZD5EZX-CB5VMJ-BEAEH9-7V3UA1",
     disabled: false,
@@ -370,7 +370,7 @@
     userId: "KTRIEUAUTO - nguoinhenlive  - 1103"
   }, {
     id: "6W9QCW-OYENIB-QJZLEN-53D8JK-9GZ6PZ",
-    disabled: false,
+    disabled: true,
     userId: "KLUAN - 104515277  - 1203"
   }, {
     id: "WUNGIE-MLAU9M-19EIXV-9WTZ4H-K9M33M",
