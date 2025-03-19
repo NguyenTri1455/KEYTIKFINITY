@@ -710,11 +710,11 @@
     userId: "KTRIEUAUTO - love.99n - 15 -04"
   }, {
     id: "EICSJV-MAG0B9-6AOI0B-SV9O9V-GNWR8S",
-    disabled: false,
+    disabled: true,
     userId: "KTHANHVUONG TV - 0109_9X - 16 -04"
   }, {
     id: "ZPID33-2W68ZC-MSCPYM-67PHJE-3T663Y",
-    disabled: false,
+    disabled: true,
     userId: "KTHANHVUONG TV - 0109_9X - 16 -04"
   }, {
     id: "82C33J-3ADD2A-5QLX5V-PRMSYZ-NHLDD7",
