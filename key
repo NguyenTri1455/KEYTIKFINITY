@@ -158,7 +158,7 @@
     userId: "hoang.quan2k -1902 - may cu"
   }, {
     id: "300LET-DLD694-FVX1KY-GNGI39-PBBT52",
-    disabled: false,
+    disabled: true,
     userId: "hoang.quan2k -1902"
   },{
     id: "RFDK8B-HPV5MB-MTL4WX-DN0CQK-42EGVE",
@@ -398,7 +398,7 @@
     userId: "KTRIEUAUTO  - copconmituot333 - 1503"
   }, {
     id: "WZSRUC-2Q0G73-QOVT30-6SJHHJ-772SC7",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - ngc.nail.box datlinh1997 - 1603"
   }, {
     id: "73NKP7-G40H4Q-TOX4FG-2K82Q0-8OSECE",
