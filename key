@@ -406,7 +406,7 @@
     userId: "KTRIEUAUTO  - utsball"
   }, {
     id: "M3DCT5-2XTN06-SN293R-733TIS-TZHV7J",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - hitabeshop - 1703"
   }, {
     id: "R40HVT-X6ITNA-MMBDLZ-Q1BCLA-EE9JO9",
@@ -442,7 +442,7 @@
     userId: "KMelon  - VUNGOCLY1996 - 2003"
   }, {
     id: "WZFCTG-FK4VR6-YQU32Z-6JYE9R-99K7M1",
-    disabled: false,
+    disabled: true,
     userId: "KgIANGOC  - tranduyluong02 - 2003"
   }, {
     id: "3LLQPH-JK24AE-2SOCPR-GTP1TC-ZWH7BA",
