@@ -802,6 +802,10 @@
     userId: "KTRIEUAUTO  - nguyen.11102025 - 20 -04"
   }, {
     id: "3SWODK-4BTVML-ZUBXPL-SV155J-MDMIYI",
+    disabled: true,
+    userId: "KTRIEUAUTO  - datnguyen8797 - 20 -04"
+  }, {
+    id: "XDO004-MNEA8B-YW4A8W-L8GCXV-MGZ1A9",
     disabled: false,
     userId: "KTRIEUAUTO  - datnguyen8797 - 20 -04"
   }, {
