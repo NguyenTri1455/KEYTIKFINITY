@@ -766,6 +766,10 @@
     userId: "KTRIEUAUTO - tung4736 - 19 -04"
   }, {
     id: "QEKOY8-ARW58C-F8LPHR-SB0UHQ-IUQQIE",
+    disabled: true,
+    userId: "KTRIEUAUTO - huyentikak5 - 19 -04 - doimay"
+  }, {
+    id: "WX6UL8-AO8XSM-J37XNL-1SVK9K-MOBAAR",
     disabled: false,
     userId: "KTRIEUAUTO - huyentikak5 - 19 -04"
   }, {
