@@ -258,7 +258,7 @@
     userId: "KLUYEN zl - @hoanghoangxiuxiu - 2102"
   }, {
     id: "CSQ1YR-0XAHFH-3K4ZTT-72TPVQ-MD2J80",
-    disabled: false,
+    disabled: true,
     userId: "KmELON - Trieuauto - @baby.20601  embeiu.201 - 2102"
   },{
     id: "RCPKN2-AUQPRI-UMNR6N-LDIXJW-M0SS8H",
@@ -470,11 +470,11 @@
     userId: "KCHUOT  - benhim_998 - 2203"
   }, {
     id: "BI91CP-G2PU1I-YDT1GN-FZUM68-52X185",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - su_xinh888888 - 2203"
   }, {
     id: "7269MU-VFCMR6-M9PJKG-VCRWDU-AO9AOP",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - chucly0601bl - 2203"
   }, {
     id: "LFH9A2-3JRG9D-P6L3Y3-STNEDB-RTYD6Z",
