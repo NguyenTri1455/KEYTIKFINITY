@@ -230,6 +230,10 @@
     userId: "74303645 - 0302 - hethan"
   }, {
     id: "2B2IT9-OIOY51-B2SXPK-LB1WIF-0O2C3A",
+    disabled: true,
+    userId: "KLuyen - bondemo - 0302 "
+  },{
+    id: "4UYVQ5-Y62KZG-J49UMW-IHXGBA-0BUDIO",
     disabled: false,
     userId: "KLuyen - bondemo - 0302 "
   }, {
