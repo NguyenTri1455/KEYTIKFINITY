@@ -454,6 +454,10 @@
     userId: "KMelon  - trongos88 - 2003"
   }, {
     id: "PEI6ST-D32QPX-I4CB1G-98N1I1-7YSPEO",
+    disabled: true,
+    userId: "KTRIEUAUTO  - 69cyber - 2103"
+  }, {
+    id: "02XAE0-JF9PT9-HZTD7A-69WJQI-JAUKU5",
     disabled: false,
     userId: "KTRIEUAUTO  - 69cyber - 2103"
   }, {
