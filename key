@@ -138,6 +138,10 @@
     userId: "Kngtri 97819077  oanh.oanh15804-1203"
   }, {
     id: "M6CHQL-ZD5EZX-CB5VMJ-BEAEH9-7V3UA1",
+    disabled: true,
+    userId: "ms.304tv -2402"
+  }, {
+    id: "C11AYK-EAPX4U-26M407-AFOC9L-MVFLGD",
     disabled: false,
     userId: "ms.304tv -2402"
   }, {
