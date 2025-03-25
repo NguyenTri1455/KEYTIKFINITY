@@ -666,6 +666,10 @@
     userId: "KNGUYENTRI - le.oni - 12 -04"
   }, {
     id: "E5LMGP-A1WCBG-Y96B3D-7TZDQ0-GK8JT0",
+    disabled: true,
+    userId: "MINHTHOZL - truong_minh_tho - 13 -04"
+  }, {
+    id: "EURUT0-6LP6O2-H43JNB-TA4VOQ-KQ1ABC",
     disabled: false,
     userId: "MINHTHOZL - truong_minh_tho - 13 -04"
   }, {
