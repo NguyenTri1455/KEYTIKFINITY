@@ -546,6 +546,10 @@
     userId: "LOCZL - lvgaming2201 - 02-04"
   }, {
     id: "8L9UCE-GNOGDU-TF44Q3-W5KPLL-W3R0GC",
+    disabled: true,
+    userId: "KNGUYENTRI - 105823160 - 02-04"
+  }, {
+    id: "KV2081-88GW6D-TZMT6O-A1Q8AA-E1IMIT",
     disabled: false,
     userId: "KNGUYENTRI - 105823160 - 02-04"
   }, {
