@@ -674,6 +674,10 @@
     userId: "KTRIEUAUTO - buonga99 - 12 -04"
   }, {
     id: "OGH7ZO-XZ4PN7-IXWPI0-BM6RHV-JFTQVD",
+    disabled: true,
+    userId: "KTRIEUAUTO - kyosama9x - 12 -04"
+  }, {
+    id: "BRUB15-4Q7G9I-VRHAMK-CX8267-7QFCU8",
     disabled: false,
     userId: "KTRIEUAUTO - kyosama9x - 12 -04"
   }, {
