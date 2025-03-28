@@ -290,7 +290,7 @@
     userId: "KMelon - thanhthuy9v9 - 2602"
   }, {
     id: "C6WT4U-DVWDGB-2HWF2P-4RJABD-2G1HYO",
-    disabled: false,
+    disabled: true,
     userId: "KMelon - bamboolake0405 - 2702"
   }, {
     id: "7ZESB7-PA6CVV-Z3WHNR-I4OC6X-3KHORS",
@@ -506,15 +506,15 @@
     userId: "KTRI  - 52914102 - 2503"
   }, {
     id: "38MB58-DLO0Q7-P5UBF1-OWZLOR-ZL1HN7",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - tiktokiddungnoong - 2703"
   }, {
     id: "ALZCHR-6YI95C-4NAER1-UCB6QR-O1VDYI",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - danongdeuladotoi - 2703"
   }, {
     id: "4O13MW-GIYYME-99C2TM-816MXE-A55030",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - lucygamingtv2k - 2703"
   }, {
     id: "84P6CP-XLALM5-58M45Q-GA4YXE-C8BAMG",
