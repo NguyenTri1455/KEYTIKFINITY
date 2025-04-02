@@ -582,10 +582,14 @@
     userId: "HUYNNZL - _huyn_neee - 03-04"
   }, {
     id: "VSF24D-LCETB3-GEP8TW-A99G2E-AP3YMH",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - quaidanthit - 03-04"
   }, {
     id: "USGGO8-KQF90I-0PBP5X-9Q71VH-04XBCC",
+    disabled: true,
+    userId: "KTRIEUAUTO - quaidanthit - 03-04"
+  }, {
+    id: "59K40U-UGW81A-66K81U-K7C7PI-DCBP0Q",
     disabled: false,
     userId: "KTRIEUAUTO - quaidanthit - 03-04"
   }, {
