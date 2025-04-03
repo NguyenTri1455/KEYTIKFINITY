@@ -314,7 +314,7 @@
     userId: "kmELON capybara1508  - 0303"
   }, {
     id: "YYIGJ2-VTUVW3-PSJZZY-A3ARXR-P3A6Y1",
-    disabled: false,
+    disabled: true,
     userId: "kmELON capybara1508  - 0303"
   }, {
     id: "FGWJUI-9E7SN1-UD29IE-4Y9VN6-NWK96P",
@@ -586,7 +586,7 @@
     userId: "THANHSONZL - xau_53 - 03-04"
   }, {
     id: "2PJIVJ-EZIF2I-1WQIXC-HTWJ4T-33O3JX",
-    disabled: false,
+    disabled: true,
     userId: "HUYNNZL - _huyn_neee - 03-04"
   }, {
     id: "VSF24D-LCETB3-GEP8TW-A99G2E-AP3YMH",
@@ -602,7 +602,7 @@
     userId: "KTRIEUAUTO - quaidanthit - 03-04"
   }, {
     id: "CKXQBJ-JOITXT-03IANR-I37LQC-8L5ORP",
-    disabled: false,
+    disabled: true,
     userId: "KNGUYENTRI - 99242490 - 03-04"
   }, {
     id: "P4GY61-ASJID8-QS47AY-HKOH4B-M2KAQU",
