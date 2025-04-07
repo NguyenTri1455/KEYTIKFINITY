@@ -146,7 +146,7 @@
     userId: "mrbugaming-1201 - hethan"
   }, {
     id: "CR3URT-M3KFJ4-25TE1N-Q0LCH5-ZGG58I",
-    disabled: false,
+    disabled: true,
     userId: "Kngtri 97819077  oanh.oanh15804-1203"
   }, {
     id: "M6CHQL-ZD5EZX-CB5VMJ-BEAEH9-7V3UA1",
@@ -654,19 +654,19 @@
     userId: "KHUY THANH VUONG ZL - tvnguyen000 - 05 -04"
   }, {
     id: "OCMDXW-ZR5YO1-A0MDHX-M6V1Q3-11X9BB",
-    disabled: false,
+    disabled: true,
     userId: "KDUCTOAN - htranpc03 - 05 -04"
   }, {
     id: "3PIXS0-Q04XOH-06V46M-GT9RAE-3G7FRQ",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - 82313470 nhicutehihihi12222 - 06-04"
   }, {
     id: "SGC4BM-IIZ5WK-ES8A3H-343RQR-SS2YAI",
-    disabled: false,
+    disabled: true,
     userId: "KMELON - vophuonghoang - 06-04"
   }, {
     id: "WO78B3-YK1O14-032CT4-YX3LHV-SHZIYI",
-    disabled: false,
+    disabled: true,
     userId: "KLUANXIDAU - son230519 - 06-04"
   }, {
     id: "VMV767-4CGL0M-O1TD56-GK35YC-CR1ZLE",
@@ -674,7 +674,7 @@
     userId: "KTRIEUAUTO - dentet123 - 06-04"
   }, {
     id: "PJXH6Q-DQ75U5-8LTCVF-EMYWF5-RFUZDK",
-    disabled: false,
+    disabled: true,
     userId: "KGIAU - SOAISUNGSUC - 06-04"
   }, {
     id: "1QQ20T-SW0HAP-QZIIQM-U1D70K-S1KYL0",
