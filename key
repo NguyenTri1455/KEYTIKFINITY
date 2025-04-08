@@ -378,7 +378,7 @@
     userId: "KTRIEUAUTO - mlut1214 congdongbaton - 0703"
   }, {
     id: "GHV6UC-X8CKJ5-BBWOJ4-55BMT5-SC3676",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - qt81s1 - 0803"
   }, {
     id: "VAILA2-FC26MX-00IM97-3LPILM-ERJ2R2",
@@ -710,7 +710,7 @@
     userId: "KTRIEUAUTO - ronilive - 07-04"
   }, {
     id: "PFOEOS-0RKZIU-WW1NOL-40J61H-3F9PN2",
-    disabled: false,
+    disabled: true,
     userId: "KTHANH - phuowgne5 - 08-04"
   }, {
     id: "Q0I7H0-SUYGVX-U60VTZ-XPP3VN-VXQ1JS",
