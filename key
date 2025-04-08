@@ -458,6 +458,10 @@
     userId: "KTRIEUAUTO  - quynh.alee - 1503 - hethan"
   }, {
     id: "JJDW36-2JEVV1-L92WRG-ZXCBQI-13TWMQ",
+    disabled: true,
+    userId: "KTRIEUAUTO  - copconmituot333 - 1503"
+  }, {
+    id: "CN6V3E-6L88RY-FF6UQO-99X12Q-VTZKO3",
     disabled: false,
     userId: "KTRIEUAUTO  - copconmituot333 - 1503"
   }, {
