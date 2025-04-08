@@ -92,6 +92,10 @@
     disabled: true,
     userId: "97772922-0501"
   }, {
+    id: "QT7ILI-Q7J23T-E30KSW-RTHC8Q-X02T18",
+    disabled: false,
+    userId: "97772922-1005"
+  }, {
     id: "5952ND-0HH39C-LO5EVD-Y42ET7-HU62J0",
     disabled: true,
     userId: "72904010-3002"
