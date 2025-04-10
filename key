@@ -1018,6 +1018,10 @@
     userId: "KTRIEUAUTO  - mui.1010 - 29 -04"
   }, {
     id: "AU6BR8-HU7BD5-7NPNB8-QP4IQM-KMKVG8",
+    disabled: true,
+    userId: "KTRIEUAUTO  - thaihuy99 - 29 -04"
+  }, {
+    id: "75IX5J-WI6R1X-2EYIC8-QP8BKS-LW30Y5",
     disabled: false,
     userId: "KTRIEUAUTO  - thaihuy99 - 29 -04"
   }, {
