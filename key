@@ -422,7 +422,7 @@
     userId: "KNGUYEN CHUOT - meo290625 - 1103"
   }, {
     id: "TB2FBB-D0B5AL-FLA673-I6WNQK-J1H80J",
-    disabled: false,
+    disabled: true,
     userId: "KNGYENTRI - thuylinh.drst  - 1003"
   }, {
     id: "NSTMCZ-5P9XP0-UH008S-V7ODH2-SKGTMB",
