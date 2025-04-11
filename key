@@ -274,8 +274,8 @@
     userId: "74303645 - 0302 - hethan"
   }, {
     id: "2B2IT9-OIOY51-B2SXPK-LB1WIF-0O2C3A",
-    disabled: false,
-    userId: "KLuyen - bondemo - 0302 "
+    disabled: true,
+    userId: "KLuyen - bondemo - 0302 dangdung"
   },{
     id: "4UYVQ5-Y62KZG-J49UMW-IHXGBA-0BUDIO",
     disabled: true,
@@ -722,11 +722,11 @@
     userId: "KTHANH - phuowgne5 - 08-04"
   }, {
     id: "Q0I7H0-SUYGVX-U60VTZ-XPP3VN-VXQ1JS",
-    disabled: false,
+    disabled: true,
     userId: "KNGUYENTRI - mohuarani2 - 10 -04"
   }, {
     id: "ECKJ2L-LXKAF6-2TAQ21-Q9FKEL-2Y2TTF",
-    disabled: false,
+    disabled: true,
     userId: "K TRI zl  - mtnguyen1507 - 10 -04"
   }, {
     id: "3M2Q01-NHOXYO-X1E45I-Q9BAZP-5G1SWD",
