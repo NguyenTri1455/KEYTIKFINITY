@@ -1046,6 +1046,10 @@
     userId: "KTRIEUAUTO  - hien..1508 - 30 -04"
   }, {
     id: "A52ZWQ-M1O4Z2-DCZLSI-RSUIMH-K6V86H",
+    disabled: true,
+    userId: "KTRIEUAUTO  - uservodanh9 - 30 -04"
+  }, {
+    id: "EPLJKT-YM34EZ-HP02FZ-CYU70I-REG5WM",
     disabled: false,
     userId: "KTRIEUAUTO  - uservodanh9 - 30 -04"
   }, {
