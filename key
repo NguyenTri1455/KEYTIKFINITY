@@ -117,6 +117,10 @@
     userId: "96416454-0102-hethan"
   }, {
     id: "ETW2SO-A4HR1O-CZV5JS-M2QUYQ-1DW50Y",
+    disabled: true,
+    userId: "thanh.onl-0904"
+  }, {
+    id: "D11CQL-MYLLRW-QVCT3J-BXDPRT-0HN9PG",
     disabled: false,
     userId: "thanh.onl-0904"
   }, {
