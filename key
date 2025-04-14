@@ -1002,6 +1002,10 @@
     userId: "KTRIEUAUTO  - eyes1107 - 21 -04"
   }, {
     id: "U42ZC4-NTZLSS-98O552-TTL0RX-2Y5U72",
+    disabled: true,
+    userId: "KTRIEUAUTO  - thuuyenuyen369 - 22 -04"
+  }, {
+    id: "6KZEZY-0TCS38-XZKLCP-VKNK5Q-RPDCZL",
     disabled: false,
     userId: "KTRIEUAUTO  - thuuyenuyen369 - 22 -04"
   }, {
