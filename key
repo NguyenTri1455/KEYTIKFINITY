@@ -187,7 +187,7 @@
     userId: "sangjuno2001 -1601"
   }, {
     id: "5Y2JV0-FP2056-1PGCDR-3LDG6G-A9FRSA",
-    disabled: false,
+    disabled: true,
     userId: "97973853 -1603 Linh.drst02"
   }, {
     id: "N2M0D5-8CL22M-NIIKQ8-DTH7MO-7SHI2F",
@@ -891,7 +891,7 @@
     userId: "KTRIEUAUTO - tiuq204 - 14 -04"
   }, {
     id: "PLBDI0-YSSVH1-3PD9JF-YG7C9O-G2RW5Z",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA - 106743178 - 15 -04"
   }, {
     id: "4M6NMJ-X0Q65Z-OFL2UW-2X1AZU-2G3KSA",
@@ -899,12 +899,12 @@
     userId: "KTRIEUAUTO - sushi_tho - 15 -04"
   }, {
     id: "2H7653-C70IDP-E1233Q-7G27G7-H7Z8U9",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - love.99n - 15 -04"
   }, {
     id: "EICSJV-MAG0B9-6AOI0B-SV9O9V-GNWR8S",
-    disabled: false,
-    userId: "KTHANHVUONG TV - 0109_9X - 16 -04"
+    disabled: true,
+    userId: "KTHANHVUONG TV - dang xai 0109_9X - 16 -04"
   }, {
     id: "ZPID33-2W68ZC-MSCPYM-67PHJE-3T663Y",
     disabled: true,
