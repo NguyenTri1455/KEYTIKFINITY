@@ -391,7 +391,7 @@
     userId: "KNGUYENTRI - 72379969 - 0603"
   }, {
     id: "FCJ6U1-DOHGWG-A5JRNV-FXIBUG-OFE36X",
-    disabled: false,
+    disabled: true,
     userId: "KLUYEN - sa_pycute - 0703"
   }, {
     id: "9KZZ9R-JSW729-BJBU4E-EPKQ1K-33V9NT",
@@ -927,19 +927,19 @@
     userId: "KTHANHVUONG TV - 0109_9X - 16 -04"
   }, {
     id: "82C33J-3ADD2A-5QLX5V-PRMSYZ-NHLDD7",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO -73 747 588 kimanhtran2x - 16 -04"
   }, {
     id: "4CEGU8-ASVF51-M0W95F-DDRKIX-Y4P1WG",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO -tham635 - 17 -04"
   }, {
     id: "R4VE24-WLGG0B-N73K5Q-OO30C7-MV4L40",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - cotienyeu - 17 -04"
   }, {
     id: "ZLPISE-M3X0XK-TFIVC0-E2TUME-7K030M",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEU-DinhThienZL - zyzyyn - 17 -04"
   }, {
     id: "D1RQEM-7GJWVK-S122HF-XETPZ4-XCHVHV",
