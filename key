@@ -156,10 +156,13 @@
     id: "7IEO1C-RJGFX4-HRSJSQ-TGB0R0-ISR7O5",
     disabled: true,
     userId: "yen.nhi.official-1201 - DOIMAY"
-  }, 
- {
+  }, {
     id: "E5MEJ6-AZVZ2X-5NL25D-3X9G1P-G0683U",
     disabled: true,
+    userId: "yen.nhi.official-1103 -dangxai "
+  }, {
+    id: "G3GQ6K-2IJNLH-K9V487-XC8AZ8-VWEXG9",
+    disabled: false,
     userId: "yen.nhi.official-1103 -dangxai "
   }, {
     id: "GPGZPC-ILHVT8-SZD3MU-85T3ET-XDJL2G",
