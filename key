@@ -514,7 +514,7 @@
     userId: "KTRIEUAUTO  - copconmituot333 - 1503"
   }, {
     id: "6Z1I34-EMZ4VL-2OX1S5-YTVAH5-DVS391",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - copconmituot333 - 1503"
   }, {
     id: "WZSRUC-2Q0G73-QOVT30-6SJHHJ-772SC7",
@@ -538,7 +538,7 @@
     userId: "KTRIEUAUTO - DAUGAMER886 - 1803"
   }, {
     id: "37CVRU-SRPPNS-4JW9TC-22FVST-W0MXQK",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - DAUGAMER886 - 1803"
   }, {
     id: "U5J1NK-TFKHDC-NCPD2K-90J622-DMS08N",
@@ -954,19 +954,19 @@
     userId: "KTRIEUAUTO - youno.men - 18 -04"
   }, {
     id: "UGTQMT-USV00X-02TIED-6ZFUKD-U25AW4",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - onepiece.1999tn - 18 -04"
   }, {
     id: "R679XR-GU87O5-B3XBHM-BVBOKI-BVCWZM",
-    disabled: false,
+    disabled: true,
     userId: "PHAT ZL - linhnef_182 - 18 -04"
   }, {
     id: "6BT7CB-DH4693-F5QGW1-L6EK2Y-3WWF8Z",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - thng.com - 18 -04"
   }, {
     id: "Y1FMUX-YH2Q3L-RXI8MR-6PO40X-B31HQ0",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - emlinh6800 - 18 -04"
   }, {
     id: "CDM85L-CPZMI2-SWS2QS-VCVXQG-IQE8J2",
@@ -1316,6 +1316,10 @@
     id: "4GQY8R-K2P2N1-A0LWNV-68TY75-UHHH0J",
     disabled: false,
     userId: "KTRIEUAUTO  -tusuongg  - 19 - 05"
+  }, {
+    id: "IDVKXL-5KID6F-NNIHW2-N8PTP6-0QRF47",
+    disabled: false,
+    userId: "KBANGHA b.cheng99  - 20 - 05"
   }
 
 
