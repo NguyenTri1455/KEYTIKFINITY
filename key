@@ -518,7 +518,7 @@
     userId: "KTRIEUAUTO  - copconmituot333 - 1503"
   }, {
     id: "WZSRUC-2Q0G73-QOVT30-6SJHHJ-772SC7",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - ngc.nail.box datlinh1997 - 1603"
   }, {
     id: "73NKP7-G40H4Q-TOX4FG-2K82Q0-8OSECE",
@@ -982,11 +982,11 @@
     userId: "KTRIEUAUTO - emlinh6800 - 18 -04"
   }, {
     id: "CDM85L-CPZMI2-SWS2QS-VCVXQG-IQE8J2",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA - nguyendotan - 19 -04"
   }, {
     id: "PECJHY-DGADBH-70OD2V-734Y9M-01EKQF",
-    disabled: false,
+    disabled: true,
     userId: "KVANCHUNG - chunchungaming1012 - 19 -04"
   }, {
     id: "IF90U0-86DRS2-6E3M82-WNJ730-2YX7MZ",
@@ -998,23 +998,23 @@
     userId: "KTRIEUAUTO - huyentikak5 - 19 -04 - doimay"
   }, {
     id: "WX6UL8-AO8XSM-J37XNL-1SVK9K-MOBAAR",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - huyentikak5 - 19 -04"
   }, {
     id: "6VGNUZ-B1KJZM-OHHVPS-SMY0B2-SDGQMT",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEU-DinhThienZL - dzth14 - 19 -04"
   }, {
     id: "SGES43-GQB0EJ-D2FEDO-KPTWGX-S5LU4P",
-    disabled: false,
+    disabled: true,
     userId: "KTruc - huongem - huncute_0802 - 19 -04"
   }, {
     id: "DXOAFZ-O8O9CX-5OK7PQ-PE5F38-7Y0SEC",
-    disabled: false,
+    disabled: true,
     userId: "KTruc - tramem_29 - 19 -04"
   }, {
     id: "18SUKS-UKA4U8-GVSCI8-UQL3RH-LNHPUK",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - nguyenlanhuong219 - 19 -04"
   }, {
     id: "JPK3L2-866OHJ-71KKKB-XOA760-ZHPNB6",
