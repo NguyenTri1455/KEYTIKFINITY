@@ -1262,6 +1262,10 @@
     userId: "KTRIEUAUTO  - conon.08  - 11 - 05"
   }, {
     id: "YFBXP1-1JO8GC-P3OV09-4W6OCD-FTWU95",
+    disabled: true,
+    userId: "KBANGHA  - banana19x  - 12 - 05"
+  }, {
+    id: "N6JK26-88YKMA-OZX16G-6WXF8J-IN5FHH",
     disabled: false,
     userId: "KBANGHA  - banana19x  - 12 - 05"
   }, {
