@@ -66,7 +66,7 @@
     userId: "phu.nguyen.phong-1702"
   }, {
     id: "XHBUHL-RZP28Z-7L6K2V-3U7KNS-U47LZV",
-    disabled: false,
+    disabled: true,
     userId: "dang_thao_92-1603"
   }, {
     id: "0YX146-7NHXBM-L5DA09-YGVUYI-HCQ1ML",
@@ -210,7 +210,7 @@
     userId: "hoang.quan2k -1902"
   },{
     id: "RFDK8B-HPV5MB-MTL4WX-DN0CQK-42EGVE",
-    disabled: false,
+    disabled: true,
     userId: "chieu.chiken CK Thao -1901"
   }, {
     id: "1BDVRI-1KUIB1-AYN1Q9-7QUGN1-A9L4L7",
@@ -270,8 +270,8 @@
     userId: "ngothithuytrang050320 - 2802"
   }, {
     id: "FL4XCY-Z84W4C-E6086W-CC3JFJ-5FHCVV",
-    disabled: false,
-    userId: "luanxidau - 1702"
+    disabled: true,
+    userId: "luanxidau new - 1702"
   },{
     id: "3IACNJ-DXQFIR-3QGCJ2-223TLH-XRY78F",
     disabled: true,
@@ -306,7 +306,7 @@
     userId: "KLuyen - bondemo - 0302 dangdung"
   },{
     id: "4UYVQ5-Y62KZG-J49UMW-IHXGBA-0BUDIO",
-    disabled: true,
+     disabled: true,
     userId: "KLuyen - bondemo - 0302 "
   },{
     id: "X31DXC-H5OTXE-774GX1-JPMD5R-TQOMET",
@@ -578,7 +578,7 @@
     userId: "KgIANGOC  - tranduyluong02 - 2003"
   }, {
     id: "3LLQPH-JK24AE-2SOCPR-GTP1TC-ZWH7BA",
-    disabled: false,
+    disabled: true,
     userId: "KMelon  - trongos88 - 2003"
   }, {
     id: "PEI6ST-D32QPX-I4CB1G-98N1I1-7YSPEO",
@@ -1030,15 +1030,15 @@
     userId: "KTRIEUAUTO - nguyencute.0297 - 19 -04"
   }, {
     id: "AJK1TA-VIM5J2-8Y0096-BW63IF-O823M3",
-    disabled: false,
+    disabled: true,
     userId: "HEO ZALO - heoo1707 - 20 -04"
   }, {
     id: "4I3CCA-N4H5V1-H82M3X-QS2ISK-QT5JUW",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - nguyen.11102025 - 20 -04"
   }, {
     id: "OZ7JM5-95P9Q9-ZRD9I5-QULENV-P606KW",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - nguyen.11102025 - 20 -04"
   }, {
     id: "3SWODK-4BTVML-ZUBXPL-SV155J-MDMIYI",
@@ -1046,7 +1046,7 @@
     userId: "KTRIEUAUTO  - datnguyen8797 - 20 -04"
   }, {
     id: "XDO004-MNEA8B-YW4A8W-L8GCXV-MGZ1A9",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - datnguyen8797 - 20 -04"
   }, {
     id: "Y1U2D3-2C3B08-IX2K8Y-5I6BYO-HJNAZJ",
