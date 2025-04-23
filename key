@@ -606,11 +606,11 @@
     userId: "KCHUOT  - benhim_998 - 2203"
   }, {
     id: "BI91CP-G2PU1I-YDT1GN-FZUM68-52X185",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - su_xinh888888 - 2203"
   },{
     id: "3L79RD-IBUPTT-JQU8IB-BCMGAS-L9KE5E",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - su_xinh888888 - 2203"
   }, {
     id: "7269MU-VFCMR6-M9PJKG-VCRWDU-AO9AOP",
@@ -1102,7 +1102,7 @@
     userId: "K NguyenLanChi  - baotoiday.99 - 22 -04"
   }, {
     id: "44F1GM-KCGTKL-RB7358-F0H8K8-PHLSIN",
-    disabled: false,
+    disabled: true,
     userId: "K TrinhDam  - henrycutequa - 23 -04"
   }, {
     id: "5GFWQS-5L42DC-NTD2XJ-XUZ8WJ-MUVBKL",
