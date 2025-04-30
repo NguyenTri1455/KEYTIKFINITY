@@ -1214,7 +1214,7 @@
     userId: "KTRIEUAUTO  - uservodanh9 - 30 -04"
   }, {
     id: "EPLJKT-YM34EZ-HP02FZ-CYU70I-REG5WM",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - uservodanh9 - 30 -04"
   }, {
     id: "2NMYA1-JYQP4E-NHKOY3-3S4NZ5-2HZ6BI",
@@ -1222,7 +1222,7 @@
     userId: "KTRIEUAUTO  - tieunguyetne - 01 - 05"
   }, {
     id: "CSKQDB-8A8SEV-I2FWTL-G6BM9I-4L7MFT",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA  - nhukem00 - 31 -04"
   }, {
     id: "XJPAXB-9T8M1E-EMRLVE-AJ2NQZ-8T2J0A",
