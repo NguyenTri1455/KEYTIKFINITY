@@ -658,11 +658,11 @@
     userId: "KTRIEUAUTO  - socxinhyeu31 - danongdeuladotoi - 2703"
   }, {
     id: "4O13MW-GIYYME-99C2TM-816MXE-A55030",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - lucygamingtv2k - 2703"
   }, {
     id: "84P6CP-XLALM5-58M45Q-GA4YXE-C8BAMG",
-    disabled: false,
+    disabled: true,
     userId: "KTHANHLUYEN  - ali.baobei611 - 2803"
   }, {
     id: "VXINDO-3M4FI8-BWBLDO-T4QRUH-LZZCFB",
@@ -1178,7 +1178,7 @@
     userId: "TRUONGGIANG ZL  - kimd2323 - 28 -04"
   }, {
     id: "2P378D-ZOXB4X-HIS17J-RHN2XO-EPYYVF",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - mui.1010 - 29 -04"
   }, {
     id: "AU6BR8-HU7BD5-7NPNB8-QP4IQM-KMKVG8",
@@ -1190,7 +1190,7 @@
     userId: "KTRIEUAUTO  - thaihuy99 - 29 -04"
   }, {
     id: "J5GU4N-ISV0SN-NCEKZI-XW6QML-CB42TJ",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - maiyeu_0 - 29 -04"
   }, {
     id: "WT6MJA-P8G2YO-JEKWY1-CMEDTH-71XWX9",
