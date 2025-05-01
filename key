@@ -330,6 +330,10 @@
     userId: "KLuyen - bondemo - 0302 "
   },{
     id: "SD7HZZ-7MOFIQ-7WHVR5-OGIXVP-SF1S93",
+    disabled: true,
+    userId: "KLuyen - bondemo - 0302 "
+  },{
+    id: "01EWIC-MQYNXK-KIVQXK-2KFIE8-K05DDV",
     disabled: false,
     userId: "KLuyen - bondemo - 0302 "
   }, {
