@@ -722,11 +722,11 @@
     userId: "KTRIEUAUTO - quynhchengne - 02-04"
   }, {
     id: "L104GL-BG0ZXY-G98LOE-W742CN-7WA0OH",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - tuankhaireview - 02-04"
   }, {
     id: "JN57TP-TPM0V5-1IUFYT-QLL854-45Q8W9",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - tuankhaireview - 02-04"
   }, {
     id: "JYI0V4-SB40ZW-EVWYWH-HX9QTB-Z8XC42",
@@ -1246,11 +1246,11 @@
     userId: "KTRIEUAUTO  - klonqq - 01 - 05"
   }, {
     id: "LVXBLN-T7QL5S-XSL669-QTSDC9-65BR0Y",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - ngth_kim_anh - 02 - 05"
   }, {
     id: "JWNICV-T736BH-91FAF8-268F66-NU4Y9U",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - kalista.1102 - 02 - 05"
   }, {
     id: "7C2ZHY-PTBXEV-SBGU29-2UKFPI-N24FK6",
@@ -1418,7 +1418,7 @@
     userId: "KTRIEUAUTO  -tusuongg  - 19 - 05"
   }, {
     id: "IDVKXL-5KID6F-NNIHW2-N8PTP6-0QRF47",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA b.cheng99  - 20 - 05"
   }, {
     id: "MY2NOC-EGWJFX-H2RFGH-9HVWR0-BII36F",
