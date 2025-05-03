@@ -710,7 +710,7 @@
     userId: "KNGUYENTRI - 105823160 - 02-04"
   }, {
     id: "KV2081-88GW6D-TZMT6O-A1Q8AA-E1IMIT",
-    disabled: false,
+    disabled: true,
     userId: "KNGUYENTRI - 105823160 b.cheng99 - 02-04"
   }, {
     id: "36K3B3-THGH7G-QG2XFK-K2ZM6F-6BTFRC",
@@ -1418,8 +1418,8 @@
     userId: "KTRIEUAUTO  -tusuongg  - 19 - 05"
   }, {
     id: "IDVKXL-5KID6F-NNIHW2-N8PTP6-0QRF47",
-    disabled: true,
-    userId: "KBANGHA b.cheng99  - 20 - 05"
+    disabled: false,
+    userId: "KBANGHA 101962174 b.cheng99  - 20 - 05"
   }, {
     id: "MY2NOC-EGWJFX-H2RFGH-9HVWR0-BII36F",
     disabled: false,
