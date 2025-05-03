@@ -390,7 +390,7 @@
     userId: "KMelon - bamboolake0405 - 2702"
   }, {
     id: "7ZESB7-PA6CVV-Z3WHNR-I4OC6X-3KHORS",
-    disabled: false,
+    disabled: true,
     userId: "Pirey ZL - pibungbu2 - 0203"
   }, {
     id: "EL3V71-QSDQDH-LT49Z9-SIQJ45-OEXUBR",
@@ -398,11 +398,11 @@
     userId: "kmELON capybara1508  - 0303"
   }, {
     id: "YYIGJ2-VTUVW3-PSJZZY-A3ARXR-P3A6Y1",
-    disabled: false,
+    disabled: true,
     userId: "kmELON capybara1508  - 0303"
   }, {
     id: "7CG2MH-XK4QKA-LZZFAA-78VRP7-I8SWGG",
-    disabled: false,
+    disabled: true,
     userId: "kmELON capybara1508  - 0303"
   }, {
     id: "FGWJUI-9E7SN1-UD29IE-4Y9VN6-NWK96P",
@@ -730,7 +730,7 @@
     userId: "KTRIEUAUTO - tuankhaireview - 02-04"
   }, {
     id: "JYI0V4-SB40ZW-EVWYWH-HX9QTB-Z8XC42",
-    disabled: false,
+    disabled: true,
     userId: "THANHSONZL - xau_53 - 03-04"
   }, {
     id: "2PJIVJ-EZIF2I-1WQIXC-HTWJ4T-33O3JX",
@@ -1270,11 +1270,11 @@
     userId: "KTRIEUAUTO  - tienkho_khao  - 03 - 05"
   }, {
     id: "JMR1NO-NLLSZI-LQJ2KN-9J8MU7-VFLHS3",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - khongcamxuc_61  - 03 - 05"
   }, {
     id: "HUFCFY-4XYNHJ-IRQ0T4-JCJXBB-D0MN5K",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - dota2cungem7nhe  - 03 - 05"
   }, {
     id: "12QZ5X-E5BPBY-GHIG6O-714IQ5-RY1Q7K",
