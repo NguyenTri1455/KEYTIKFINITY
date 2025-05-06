@@ -182,7 +182,7 @@
     userId: "Kngtri 97819077  oanh.oanh15804-1203"
   }, {
     id: "N3F7YE-EGLSH7-EG1WWG-YXTEFS-PKWGYC",
-    disabled: false,
+    disabled: true,
     userId: "Kngtri 97819077  oanh.oanh15804-1203"
   }, {
     id: "M6CHQL-ZD5EZX-CB5VMJ-BEAEH9-7V3UA1",
@@ -274,8 +274,8 @@
     userId: "zico1601 - 0403"
   }, {
     id: "1TZH47-2RRQL4-JA7AQM-5S168U-HORZG0",
-    disabled: false,
-    userId: "zico1601 - 0403"
+    disabled: true,
+    userId: "zico1601 - dangxai - 0403"
   }, {
     id: "O5M8SV-M4YJXC-DR0ZZV-I25KL4-U4UOKM",
     disabled: true,
@@ -1314,7 +1314,7 @@
     userId: "KTV HIEU  - hieuhieunt  - 05 - 05"
   }, {
     id: "HFV3E3-14EUGZ-OXYM0J-YO4UAZ-TFTBTZ",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - huyensomalam  - 06 - 05"
   }, {
     id: "7ZM2SZ-9PPWE7-ONN8V8-XUFUZL-DB47L8",
