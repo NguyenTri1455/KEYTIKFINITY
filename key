@@ -142,7 +142,7 @@
     userId: "ledaiquan-0403"
   }, {
     id: "RGJCXA-DTU4RJ-APS6Z2-T6PK4E-158LHA",
-    disabled: false,
+    disabled: true,
     userId: "ledaiquan-0403"
   }, {
     id: "VGZAUA-G0KJOO-Y27FUK-BGUB2Z-LK7UV8",
@@ -302,7 +302,7 @@
     userId: "trongthaonhu - 0503"
   }, {
     id: "SUGBV7-FIL32U-DPUJX6-YY7M49-2HN0X5",
-    disabled: false,
+    disabled: true,
     userId: "trongthaonhu - ver2 - 0503"
   }, {
     id: "KIPRM2-B56J9X-VUJHR3-KHZAOL-34POQW",
@@ -310,7 +310,7 @@
     userId: "thaonhu - 0503"
   }, {
     id: "D021HP-LFYQ15-C0Y93M-YTEV32-8RH0WJ",
-    disabled: false,
+    disabled: true,
     userId: "thaonhu - 0503"
   }, {
     id: "RS0930-I2GG1C-BXRS1X-04RY0U-NXU2HL",
@@ -1322,7 +1322,7 @@
     userId: "KTRIEUAUTO  - huyensomalam  - 06 - 05"
   }, {
     id: "7ZM2SZ-9PPWE7-ONN8V8-XUFUZL-DB47L8",
-    disabled: false,
+    disabled: true,
     userId: "WangNG NG ZL   - boiinhangheo.29  - 06 - 05"
   }, {
     id: "LKQ14G-YK7OX3-Q2W7WZ-6IVQ11-PWJWIY",
