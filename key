@@ -790,7 +790,7 @@
     userId: "KTRIEUAUTO - hwizhakoz55 - 05 -04"
   }, {
     id: "DINJIY-1Y3EQR-IVC2NM-8BCHQJ-UHMGIQ",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - hwizhakoz55 - 05 -04"
   }, {
     id: "N9GVCI-JZ8EDA-UOJSEI-WZ9AQ1-OYBR5W",
@@ -854,7 +854,7 @@
     userId: "K TRI zl  - mtnguyen1507 - 10 -04"
   }, {
     id: "3M2Q01-NHOXYO-X1E45I-Q9BAZP-5G1SWD",
-    disabled: false,
+    disabled: true,
     userId: "KTVNGUYEN - HIEU ZL  - 98461084  DIPLE24 - 10 -04"
   }, {
     id: "JTLEG4-H4E9QU-3R9F1U-62JMYD-JP0JYW",
