@@ -42,7 +42,7 @@
     userId: "97924268- 0503"
   }, {
     id: "BYAJYP-2V3ZPO-H97G0X-1YZ7JD-EJPH9J",
-    disabled: false,
+    disabled: true,
     userId: "97924268- 0503"
   }, {
     id: "E6S1T9-449ME4-B36YFO-Q88GHC-6HY96Q",
@@ -142,7 +142,7 @@
     userId: "ledaiquan-0403"
   }, {
     id: "RGJCXA-DTU4RJ-APS6Z2-T6PK4E-158LHA",
-    disabled: false,
+    disabled: true,
     userId: "ledaiquan-0403"
   }, {
     id: "VGZAUA-G0KJOO-Y27FUK-BGUB2Z-LK7UV8",
@@ -850,7 +850,7 @@
     userId: "K TRI zl  - mtnguyen1507 - 10 -04"
   }, {
     id: "OOINHV-U6KZJ5-RIEVJC-3JRBTE-SXD9DS",
-    disabled: false,
+    disabled: true,
     userId: "K TRI zl  - mtnguyen1507 - 10 -04"
   }, {
     id: "3M2Q01-NHOXYO-X1E45I-Q9BAZP-5G1SWD",
@@ -866,7 +866,7 @@
     userId: "KTRIEUAUTO - 104864680 lamdailyvlog - 12 -04"
   }, {
     id: "SMEE5L-4ZITS8-D5HR9U-IRRRRB-VHAFXN",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - 104864680 lamdailyvlog - 12 -04"
   }, {
     id: "3ECQBY-TDVMKB-PA5HJA-E7EJEE-42FK05",
@@ -882,7 +882,7 @@
     userId: "KTRIEUAUTO - chipzzz2428 - 12 -04"
   }, {
     id: "LZNMBX-7D2102-HX53PB-9IJOI7-38UPOX",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - chipzzz2428 - 12 -04"
   }, {
     id: "GGFS7S-7ZU1RN-QJJ3WD-MCQ3ZC-13H27A",
@@ -1370,15 +1370,15 @@
     userId: "KBANGHA  - banana19x  - 12 - 05"
   }, {
     id: "N6JK26-88YKMA-OZX16G-6WXF8J-IN5FHH",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA  - banana19x  - 12 - 05"
   }, {
     id: "P0597X-4UG02B-ZZZW17-X20WDE-BYKLFN",
-    disabled: false,
+    disabled: true,
     userId: "TUYENDAO  - dqt.vlog  - 12 - 05"
   }, {
     id: "P2C5WR-JLAT7R-0P8DIE-IQ8N2I-I0WWP0",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - hahaiquang92  - 12 - 05"
   }, {
     id: "YXYOR2-UZP9C8-S7Z68I-SNJUN8-K5NB3K",
