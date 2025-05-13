@@ -926,7 +926,7 @@
     userId: "KTRIEUAUTO - dieuai9797 - 13 -04"
   }, {
     id: "DKBGTR-33EU2P-NTMCA3-J87TNT-CYL5T3",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - dieuai9797 - 13 -04"
   }, {
     id: "Y75EVT-EN0BPB-DKLD6P-ET1SM1-6EDR6C",
@@ -1398,7 +1398,7 @@
     userId: "KTRIEUAUTO  - 108778092  - 13 - 05"
   }, {
     id: "F1WA3Q-TT2L5C-UFBAGR-GCM611-HHNYFL",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - 108778092  - 13 - 05"
   }, {
     id: "88V3EN-D2ED6R-OHVT2Y-EZ5HGS-T5DWG2",
