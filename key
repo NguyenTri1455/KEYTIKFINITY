@@ -470,10 +470,14 @@
     userId: "KTRIEUAUTO - coibeti - 0903"
   }, {
     id: "AW5MRF-A8ZXP3-GKQ2D9-4B38T8-QZBEK3",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - Thuong.thuong.0398 - 0903"
   }, {
     id: "CX2B2B-G148WE-OYC2D1-MEY1SH-2L44YE",
+    disabled: true,
+    userId: "KTRIEUAUTO - Thuong.thuong.0398 - 0903"
+  }, {
+    id: "43Z55M-DKBQGG-VR3WZ2-OGHTND-9SBN2K",
     disabled: false,
     userId: "KTRIEUAUTO - Thuong.thuong.0398 - 0903"
   }, {
