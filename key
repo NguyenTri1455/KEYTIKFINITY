@@ -514,7 +514,7 @@
     userId: "KTRIEUAUTO - bphuongtll bichphuonglt  - 1103"
   }, {
     id: "KHE7JV-QZ8LTF-8UYN95-FPYLRW-XNHP2Z",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - minhduc23022k  - 1103"
   }, {
     id: "U3VAHQ-R2FT4T-YIKFA6-HF757N-TA8IS0",
@@ -986,7 +986,7 @@
     userId: "KTRIEUAUTO - tiuq204 - 14 -04"
   }, {
     id: "99HEVF-1X0KQE-A30HZZ-E3ON39-WK635I",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - tiuq204 - 14 -04"
   }, {
     id: "PLBDI0-YSSVH1-3PD9JF-YG7C9O-G2RW5Z",
@@ -1406,7 +1406,7 @@
     userId: "KTRIEUAUTO  - 108778092  - 13 - 05"
   }, {
     id: "88V3EN-D2ED6R-OHVT2Y-EZ5HGS-T5DWG2",
-    disabled: false,
+    disabled: true,
     userId: "KANHHUNG  - 97956859  - 14 - 05"
   }, {
     id: "U4OXTP-JQB80N-U5ZRR5-9CYXHU-K53Z0F",
@@ -1692,6 +1692,10 @@
     id: "D4WLNK-U9KBBC-ZWNMUL-ACALI8-QFKJKH",
     disabled: false,
     userId: "KTRIEUAUTO - kim.phng.vlog - 13-06"
+  }, {
+    id: "AY9FGR-TBLISN-IG11FK-DANW11-E5MTMS",
+    disabled: false,
+    userId: "KTRIEUAUTO - haogaming97 - 16-06"
   }
 
 
