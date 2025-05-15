@@ -942,7 +942,7 @@
     userId: "KTRIEUAUTO - chihangxom2k3 - 13 -04"
   }, {
     id: "BF3I9A-HWHWQE-P4MSDV-APUAOD-LC7AHT",
-    disabled: false,
+    disabled: true,
     userId: "KANHHUNG - suirbaby.drst - 13 -04"
   }, {
     id: "XNZRRR-5B2PT3-5PH1UJ-1TZZ54-A1NUCE",
@@ -998,7 +998,7 @@
     userId: "KBANGHA - 106743178 - 15 -04"
   }, {
     id: "4M6NMJ-X0Q65Z-OFL2UW-2X1AZU-2G3KSA",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - sushi_tho - 15 -04"
   }, {
     id: "2H7653-C70IDP-E1233Q-7G27G7-H7Z8U9",
@@ -1410,7 +1410,7 @@
     userId: "KANHHUNG  - 97956859  - 14 - 05"
   }, {
     id: "U4OXTP-JQB80N-U5ZRR5-9CYXHU-K53Z0F",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA  - lvcu0ng  - 14 - 05"
   }, {
     id: "35OXWE-9WMQL2-NSIA7G-HIYBIK-S9UYD0",
@@ -1418,7 +1418,7 @@
     userId: "KTRIEUAUTO  -107320742  - 14 - 05"
   }, {
     id: "RMS3YC-E17VUT-CPZ0YO-Y0F7TY-Z0G3PK",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - chupanhdanang_43_  - 15 - 05"
   }, {
     id: "0X814S-90XKD8-1EOIF3-20D7U4-Y9MW0F",
