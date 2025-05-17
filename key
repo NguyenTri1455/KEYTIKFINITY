@@ -1,15 +1,15 @@
 [
   {
     id: "H8X693-HK9PA8-LLE8B1-1SWH9S-1FRGNV",
-    disabled: false,
+    disabled: true,
     userId: "Nguyễn Trí "
   }, {
     id: "HZZ8BB-32HEDT-D8AVV0-W2J3MQ-6WZU7U",
-    disabled: false,
+    disabled: true,
     userId: "LT"
   }, {
     id: "YUBRBI-H8FGA6-L34KTC-80HJ8N-49QZ1R",
-    disabled: false,
+    disabled: true,
     userId: "LT - acc new"
   }, {
     id: "717D7R-KQG0MX-2JTLLA-TKXMBF-8X1NYR",
@@ -25,11 +25,11 @@
     userId: "harikute2023-2412 - het han"
   }, {
     id: "NEQV9T-12A61E-21JLI8-GDUNK7-BU9S0B",
-    disabled: false,
+    disabled: true,
     userId: "aloigameming-2401"
   }, {
     id: "TQ5GQ4-TPVAKD-3K50QO-7DY7WO-BJY8ZF",
-    disabled: false,
+    disabled: true,
     userId: "aloigameming-2401"
   }, {
     id: "Q9307U-IXK9YG-00AYGD-BI9YS6-M58BZ7",
@@ -50,7 +50,7 @@
     userId: "99348155- 0503"
   }, {
     id: "5NUUB0-QQIS5W-VE4PTF-4LQQ4Q-YIFLX5",
-    disabled: false,
+    disabled: true,
     userId: "99348155- 0503"
   }, {
     id: "E40XYM-ELRW36-TJSPU4-1ED5HT-CMFNCF",
@@ -86,7 +86,7 @@
     userId: "gau_truc2k4-2402"
   }, {
     id: "ZTWL26-X9MQ3I-0X4WFK-L01NHN-6HPMFZ",
-    disabled: false,
+    disabled: true,
     userId: "gau_truc2k4 dangdung -2402"
   }, {
     id: "KIEVKP-SY0IYG-JZ43UO-UHN72N-C03LXT",
@@ -94,7 +94,7 @@
     userId: "KntrI 97819658-1203"
   }, {
     id: "63Y5N3-6ESVO8-O82KKD-6R7GWF-I9VVG5",
-    disabled: false,
+    disabled: true,
     userId: "jessi_1401_- 0302"
   }, {
     id: "PWCKFB-37WTFT-UU2PJZ-QESOIC-UZUW5U",
@@ -106,7 +106,7 @@
     userId: "97772922-1005"
   }, {
     id: "NMSKBJ-WS779B-265241-G2YO7E-AWUBHY",
-    disabled: false,
+    disabled: true,
     userId: "97772922 chuyen 108816612 -1005"
   }, {
     id: "5952ND-0HH39C-LO5EVD-Y42ET7-HU62J0",
@@ -122,7 +122,7 @@
     userId: "annabae2k LUCY ENG -2412"
   }, {
     id: "2GIEBC-ASYF60-XM3B9F-I9C18O-829T4X",
-    disabled: false,
+    disabled: true,
     userId: "annabae2k LUCY VER 3 ENG -2412"
   }, {
     id: "06Z6XY-YYL6RG-PT3Z3V-K1MT4E-YIC2UQ",
@@ -134,7 +134,7 @@
     userId: "thanh.onl-0904"
   }, {
     id: "D11CQL-MYLLRW-QVCT3J-BXDPRT-0HN9PG",
-    disabled: false,
+    disabled: true,
     userId: "thanh.onl-0904"
   }, {
     id: "0C1WS5-IZ3P9S-H91DX0-PLC1XT-NTW2PK",
@@ -150,7 +150,7 @@
     userId: "bng24850-0601"
   }, {
     id: "MCB1YJ-DOYBQF-0J5NAP-13200G-RNS25I",
-    disabled: false,
+    disabled: true,
     userId: "bng24850-0601"
   }, {
     id: "23ADZR-C0K83U-MT3170-MJ552N-82O3FY",
@@ -174,7 +174,7 @@
     userId: "yen.nhi.official-1103 -dangxai "
   }, {
     id: "G3GQ6K-2IJNLH-K9V487-XC8AZ8-VWEXG9",
-    disabled: false,
+    disabled: true,
     userId: "yen.nhi.official-1103 -dangxai "
   }, {
     id: "GPGZPC-ILHVT8-SZD3MU-85T3ET-XDJL2G",
@@ -186,7 +186,7 @@
     userId: "Kngtri 97819077  oanh.oanh15804-1203"
   }, {
     id: "N3F7YE-EGLSH7-EG1WWG-YXTEFS-PKWGYC",
-    disabled: false,
+    disabled: true,
     userId: "Kngtri 97819077  oanh.oanh15804-1203"
   }, {
     id: "M6CHQL-ZD5EZX-CB5VMJ-BEAEH9-7V3UA1",
@@ -206,7 +206,7 @@
     userId: "97973853 -1603 Linh.drst02"
   }, {
     id: "B37CML-PSPVOU-K0PYRS-ES635R-3FWH27",
-    disabled: false,
+    disabled: true,
     userId: "97973853 -1603 Linh.drst02"
   }, {
     id: "N2M0D5-8CL22M-NIIKQ8-DTH7MO-7SHI2F",
@@ -226,7 +226,7 @@
     userId: "chieu.chiken CK Thao -1901"
   },{
     id: "C7DPOB-GTJSS5-05H6M8-NJW1DG-UF34DJ",
-    disabled: false,
+    disabled: true,
     userId: "chieu.chiken CK Thao -1901"
   }, {
     id: "1BDVRI-1KUIB1-AYN1Q9-7QUGN1-A9L4L7",
@@ -242,7 +242,7 @@
     userId: "NguyenDoZl_ duyentit154 - 0102"
   }, {
     id: "3337R9-75GTZJ-RAPODH-IM3102-JG9XLR",
-    disabled: false,
+    disabled: true,
     userId: "NguyenDoZl_ duyentit154 - 0102"
   }, {
     id: "MKFHM9-GHGD0B-TCC2T4-PTIU33-DAMLPK",
@@ -266,7 +266,7 @@
     userId: "kenhbiflop22 -2601 - hethan"
   }, {
     id: "54AB2O-BJO7W6-0PDE4Y-CCN40X-AVA7I9",
-    disabled: false,
+    disabled: true,
     userId: "kenhbiflop22 -2601 - hethan"
   }, {
     id: "ENZFOS-B280FG-1NR9H5-QQJQIE-XEPJMO",
@@ -278,7 +278,7 @@
     userId: "zico1601 - 0403"
   }, {
     id: "1TZH47-2RRQL4-JA7AQM-5S168U-HORZG0",
-    disabled: false,
+    disabled: true,
     userId: "zico1601 - dangxai - 0403"
   }, {
     id: "O5M8SV-M4YJXC-DR0ZZV-I25KL4-U4UOKM",
@@ -290,7 +290,7 @@
     userId: "ngothithuytrang050320 - 2802"
   }, {
     id: "FL4XCY-Z84W4C-E6086W-CC3JFJ-5FHCVV",
-    disabled: false,
+    disabled: true,
     userId: "luanxidau tool new - 1702"
   },{
     id: "3IACNJ-DXQFIR-3QGCJ2-223TLH-XRY78F",
@@ -306,7 +306,7 @@
     userId: "trongthaonhu - 0503"
   }, {
     id: "SUGBV7-FIL32U-DPUJX6-YY7M49-2HN0X5",
-    disabled: false,
+    disabled: true,
     userId: "trongthaonhu - ver2 - 0503"
   }, {
     id: "KIPRM2-B56J9X-VUJHR3-KHZAOL-34POQW",
@@ -314,7 +314,7 @@
     userId: "thaonhu - 0503"
   }, {
     id: "D021HP-LFYQ15-C0Y93M-YTEV32-8RH0WJ",
-    disabled: false,
+    disabled: true,
     userId: "thaonhu - 0503"
   }, {
     id: "RS0930-I2GG1C-BXRS1X-04RY0U-NXU2HL",
@@ -338,7 +338,7 @@
     userId: "KLuyen - bondemo - 0302 "
   },{
     id: "01EWIC-MQYNXK-KIVQXK-2KFIE8-K05DDV",
-    disabled: false,
+    disabled: true,
     userId: "KLuyen - bondemo - 0302 "
   }, {
     id: "5ZHPTZ-O0CM4S-0DZCWE-F5Y8QM-4VJT82",
@@ -370,15 +370,15 @@
     userId: "KLUYEN zl - @hoanghoangxiuxiu - 2102"
   }, {
     id: "QAD2G2-DA85KG-1C9RM5-EHT8Z3-8OHB45",
-    disabled: false,
+    disabled: true,
     userId: "KLUYEN zl - @hoanghoangxiuxiu - 2102"
   }, {
     id: "CSQ1YR-0XAHFH-3K4ZTT-72TPVQ-MD2J80",
-    disabled: false,
+    disabled: true,
     userId: "KmELON - Trieuauto - @baby.20601  embeiu.201 - 2102"
   },{
     id: "RCPKN2-AUQPRI-UMNR6N-LDIXJW-M0SS8H",
-    disabled: false,
+    disabled: true,
     userId: "KmELON - Trieuauto - @baby.20601  embeiu.201 - 2102"
   }, {
     id: "9CENA0-O3AAYT-R60L58-74U4TQ-440E2V",
@@ -386,7 +386,7 @@
     userId: "KLUYEN - _ebes01 - 2202"
   }, {
     id: "7GJIAW-EMZC03-RWF92K-US2VLX-RKS3XN",
-    disabled: false,
+    disabled: true,
     userId: "KMelon - thanhthuy9v9 - 2602"
   }, {
     id: "C6WT4U-DVWDGB-2HWF2P-4RJABD-2G1HYO",
@@ -398,7 +398,7 @@
     userId: "Pirey ZL - pibungbu2 - 0203"
   }, {
     id: "I3H161-WZP2GK-WG0KYS-S8EP8N-SA294Q",
-    disabled: false,
+    disabled: true,
     userId: "Pirey ZL - pibungbu2 - 0203"
   }, {
     id: "EL3V71-QSDQDH-LT49Z9-SIQJ45-OEXUBR",
@@ -410,7 +410,7 @@
     userId: "kmELON capybara1508  - 0303"
   }, {
     id: "7CG2MH-XK4QKA-LZZFAA-78VRP7-I8SWGG",
-    disabled: false,
+    disabled: true,
     userId: "kmELON capybara1508  - 0303"
   }, {
     id: "FGWJUI-9E7SN1-UD29IE-4Y9VN6-NWK96P",
@@ -418,11 +418,11 @@
     userId: "KTHAIHUNG catoichoi1908  - 0403"
   }, {
     id: "F3AJ7D-FIR7MS-E3UM35-DLLF1V-1OPZVM",
-    disabled: false,
+    disabled: true,
     userId: "KNGUYEN - shopminhquan89 - 0503"
   }, {
     id: "PUN9HA-ID0KSW-WOSG2I-WCTROK-0LT8X0",
-    disabled: false,
+    disabled: true,
     userId: "KNGUYEN - shopminhquan89 - 0503"
   }, {
     id: "9H5RCW-ADFKPJ-6BYU1T-ISXLUH-CQNYAV",
@@ -438,11 +438,11 @@
     userId: "KLUYEN - sa_pycute - 0703"
   }, {
     id: "9KZZ9R-JSW729-BJBU4E-EPKQ1K-33V9NT",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - mlut1214 congdongbaton - 0703"
   },{
     id: "UFKVUL-P430D5-JXERCO-EXSK9F-FSBR64",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - mlut1214 congdongbaton - 0703"
   }, {
     id: "GHV6UC-X8CKJ5-BBWOJ4-55BMT5-SC3676",
@@ -450,15 +450,15 @@
     userId: "KTRIEUAUTO - qt81s1 - 0803"
   }, {
     id: "VAILA2-FC26MX-00IM97-3LPILM-ERJ2R2",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - hanndun20 - 0903"
   }, {
     id: "C38VBO-VXTT5S-HRSTU1-TW4KM3-639YIL",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - chjbaeday - 0903"
   }, {
     id: "WXN11H-IHS4BL-XFY9VT-VR8ENI-OFWCAH",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - liinaa1810 - 0903"
   }, {
     id: "2DMC6M-91AHPB-09I1DH-BBPGRQ-BJ68AS",
@@ -466,7 +466,7 @@
     userId: "KTRIEUAUTO - coibeti - 0903"
   }, {
     id: "B53I9I-UPDT0N-HK1USJ-U018XQ-56GZWO",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - coibeti - 0903"
   }, {
     id: "AW5MRF-A8ZXP3-GKQ2D9-4B38T8-QZBEK3",
@@ -478,7 +478,7 @@
     userId: "KTRIEUAUTO - Thuong.thuong.0398 - 0903"
   }, {
     id: "43Z55M-DKBQGG-VR3WZ2-OGHTND-9SBN2K",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - Thuong.thuong.0398 - 0903"
   }, {
     id: "VQFO60-L54V0R-7ACL7D-L2LVQK-XEFF9X",
@@ -486,15 +486,15 @@
     userId: "KTRIEUAUTO - 84672582 hanvhieuu - 0903"
   }, {
     id: "HO0EAP-RB9UYK-0KDYEG-WWO6YW-72F72I",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - liina8888 - 1003"
   }, {
     id: "Y7BWD6-EDX26T-QHFI2Q-9LH2JS-B185LJ",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - liina8888 - 1003"
   }, {
     id: "HVXS8S-N1R7WK-N76YS0-V5O979-321M4Z",
-    disabled: false,
+    disabled: true,
     userId: "KNGUYEN CHUOT - meo290625 - 1103"
   }, {
     id: "TB2FBB-D0B5AL-FLA673-I6WNQK-J1H80J",
@@ -502,19 +502,19 @@
     userId: "KNGYENTRI - thuylinh.drst  - 1003"
   }, {
     id: "AP4M78-W466H3-GTB554-TJ8JTN-W74OFX",
-    disabled: false,
+    disabled: true,
     userId: "KNGYENTRI - 97973800 - thuylinh.drst  - 1003"
   }, {
     id: "NSTMCZ-5P9XP0-UH008S-V7ODH2-SKGTMB",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - bphuongtll bichphuonglt  - 1103"
   }, {
     id: "E5TRX9-X7DDTS-P5L0Q9-ZXJ4YT-V0L0U9",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - bphuongtll bichphuonglt  - 1103"
   }, {
     id: "KHE7JV-QZ8LTF-8UYN95-FPYLRW-XNHP2Z",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - minhduc23022k  - 1103"
   }, {
     id: "U3VAHQ-R2FT4T-YIKFA6-HF757N-TA8IS0",
@@ -534,7 +534,7 @@
     userId: "KNGTRI - 104516726  - 1303"
   }, {
     id: "QB7IXJ-0O93FX-JO423D-LNX753-JKVF29",
-    disabled: false,
+    disabled: true,
     userId: "KNGTRI - 104516726  - 1303"
   }, {
     id: "FISJGB-0S1KCX-4LM4CV-5GPDND-MBQCGI",
@@ -542,7 +542,7 @@
     userId: "PHUONGVYZL - dydiudang.97 - 1303"
   }, {
     id: "X13FBK-9A5MA6-9W7UHV-H2J2LR-6P8LBG",
-    disabled: false,
+    disabled: true,
     userId: "PHUONGVYZL - dydiudang.97 - 1303"
   }, {
     id: "2ZICAX-G0FHXL-I4LQA0-7QKM4F-WCA006",
@@ -570,7 +570,7 @@
     userId: "KTRIEUAUTO  - ngc.nail.box datlinh1997 - 1603"
   }, {
     id: "D78LT3-HO1E0Y-9JI8Q0-3KWCK9-4R3D23",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - ngc.nail.box datlinh1997 - 1603"
   }, {
     id: "73NKP7-G40H4Q-TOX4FG-2K82Q0-8OSECE",
@@ -594,7 +594,7 @@
     userId: "KTRIEUAUTO - DAUGAMER886 - 1803"
   }, {
     id: "LNONHW-B5GPYY-4C85YA-15LP3R-KRGSIK",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - DAUGAMER886 - 1803"
   }, {
     id: "U5J1NK-TFKHDC-NCPD2K-90J622-DMS08N",
@@ -606,7 +606,7 @@
     userId: "KTRIEUAUTO  - monky_d_lucky mabugaming5 mabu1996 - 1903"
   }, {
     id: "ISYQB5-008HXT-BATFTE-HEELQE-SSOXEH",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - monky_d_lucky mabugaming5 mabu1996 - 1903"
   },{
     id: "GS4GZR-MZU6KB-XNQ594-XDGCND-7Z91JS",
@@ -630,7 +630,7 @@
     userId: "KTRIEUAUTO  - 69cyber - 2103"
   }, {
     id: "02XAE0-JF9PT9-HZTD7A-69WJQI-JAUKU5",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - 69cyber - 2103"
   }, {
     id: "8P6S3D-S2F0E8-X4AEYQ-XA343N-YWG763",
@@ -638,11 +638,11 @@
     userId: "KTRIEUAUTO  - mylove.1k9 - 2103"
   }, {
     id: "B53YCL-2XPZAG-MFAMM3-48RUXX-BEAGKT",
-    disabled: false,
+    disabled: true,
     userId: "KCHUOT  - benhim_998 - 2203"
   }, {
     id: "68O3P3-17PE28-54381I-GQ8MIC-ZYD1SJ",
-    disabled: false,
+    disabled: true,
     userId: "KCHUOT  - benhim_998 - 2203"
   }, {
     id: "BI91CP-G2PU1I-YDT1GN-FZUM68-52X185",
@@ -650,7 +650,7 @@
     userId: "KTRIEUAUTO  - su_xinh888888 - 2203"
   },{
     id: "3L79RD-IBUPTT-JQU8IB-BCMGAS-L9KE5E",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - su_xinh888888 - 2203"
   }, {
     id: "7269MU-VFCMR6-M9PJKG-VCRWDU-AO9AOP",
@@ -662,7 +662,7 @@
     userId: "KTRIEUAUTO  - malum8686 - 2203"
   }, {
     id: "AKHM8I-FW7V90-YWBT1E-4147OS-N4GB32",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - malum8686 - 2203"
   }, {
     id: "W0YPO7-3FW0KB-TKJXT5-8R0MEE-Q8V3QL",
@@ -678,7 +678,7 @@
     userId: "KTRIEUAUTO  - danongdeuladotoi - 2703"
   }, {
     id: "V4CK3W-WP76MQ-0A58MG-UNTP3W-N6R0XY",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - socxinhyeu31 - danongdeuladotoi - 2703"
   }, {
     id: "4O13MW-GIYYME-99C2TM-816MXE-A55030",
@@ -698,15 +698,15 @@
     userId: "MinhXu - funnygame002 - 01-04"
   }, {
     id: "JDA8TY-HTX4XB-8MCX31-8HHKW6-01R3DI",
-    disabled: false,
+    disabled: true,
     userId: "MinhXu - funnygame002 - 01-04"
   }, {
     id: "1T683R-4OY4FB-QEZ571-7LY7Q4-0JD7QL",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - pepi.2912 - 01-04"
   },{
     id: "XE9853-90MLZA-PL86E1-LUEOCV-5L527N",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - pepi.2912 - 01-04"
   }, {
     id: "UW30D3-1O93EP-Y68KUB-CY96YL-HTT1IJ",
@@ -718,7 +718,7 @@
     userId: "LOCZL - lvgaming2201 - 02-04"
   },{
     id: "JNPYRV-9MCKDH-ZKZXAX-INOPGR-0YANUA",
-    disabled: false,
+    disabled: true,
     userId: "LOCZL - lvgaming2201 - 02-04"
   }, {
     id: "8L9UCE-GNOGDU-TF44Q3-W5KPLL-W3R0GC",
@@ -746,7 +746,7 @@
     userId: "KTRIEUAUTO - tuankhaireview - 02-04"
   }, {
     id: "LHTW0D-5MW3SI-W1ABC9-JX8J5N-CXFCPX",
-    disabled: false,
+    disabled: true,
     userId: "THANHSONZL - xau_53 - 03-04"
   }, {
     id: "2PJIVJ-EZIF2I-1WQIXC-HTWJ4T-33O3JX",
@@ -762,7 +762,7 @@
     userId: "KTRIEUAUTO - quaidanthit - 03-04"
   }, {
     id: "59K40U-UGW81A-66K81U-K7C7PI-DCBP0Q",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - quaidanthit - 03-04"
   }, {
     id: "CKXQBJ-JOITXT-03IANR-I37LQC-8L5ORP",
@@ -770,11 +770,11 @@
     userId: "KNGUYENTRI - 99242490 - 03-04"
   }, {
     id: "P4GY61-ASJID8-QS47AY-HKOH4B-M2KAQU",
-    disabled: false,
+    disabled: true,
     userId: "KCHUOT - quynhbi335 - 04 -04"
   }, {
     id: "1IRXBR-VYOQ1J-JY6AO6-3UAEI4-Y2D2E3",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - tiktok31365428017 - 04 -04"
   }, {
     id: "WG377U-EXQAND-CNNYLR-TA0TGG-S47RUW",
@@ -786,7 +786,7 @@
     userId: "KNGUYENTRI - 104946733 bunnyreallove - 05 -04"
   }, {
     id: "608XUV-0VU2YF-QQOOUF-25AG80-V23JR1",
-    disabled: false,
+    disabled: true,
     userId: "KNGUYENTRI - 104946733 bunnyreallove - 05 -04"
   }, {
     id: "YGA2RA-JAJQ8A-8DWH15-CQ62AW-Z6II2L",
@@ -798,7 +798,7 @@
     userId: "KTRIEUAUTO - hwizhakoz55 - 05 -04"
   }, {
     id: "N9GVCI-JZ8EDA-UOJSEI-WZ9AQ1-OYBR5W",
-    disabled: false,
+    disabled: true,
     userId: "KHUY THANH VUONG ZL - tvnguyen000 - 05 -04"
   }, {
     id: "OCMDXW-ZR5YO1-A0MDHX-M6V1Q3-11X9BB",
@@ -806,7 +806,7 @@
     userId: "KDUCTOAN - htranpc03 - 05 -04"
   }, {
     id: "YDT7XA-YC1YV6-KZS48Y-IOYHGQ-5G2O1L",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - htranpc03 - 05 -04"
   }, {
     id: "3PIXS0-Q04XOH-06V46M-GT9RAE-3G7FRQ",
@@ -826,7 +826,7 @@
     userId: "KTRIEUAUTO - dentet123 - 06-04"
   }, {
     id: "AA4YQK-K5VMEY-FSZNRC-XLGI9D-CWX6FN",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - dentet123 - 06-04"
   }, {
     id: "PJXH6Q-DQ75U5-8LTCVF-EMYWF5-RFUZDK",
@@ -834,15 +834,15 @@
     userId: "KGIAU - SOAISUNGSUC - 06-04"
   }, {
     id: "6JHK09-FL0IZ3-RBTB06-TK103E-LG6M30",
-    disabled: false,
+    disabled: true,
     userId: "KGIAU - SOAISUNGSUC - 06-04 up1605"
   }, {
     id: "1QQ20T-SW0HAP-QZIIQM-U1D70K-S1KYL0",
-    disabled: false,
+    disabled: true,
     userId: "KGIAU - trgamingz - 06-06"
   }, {
     id: "7NA06V-BVX7W7-DLIXBZ-B3NHA5-ZYV6HI",
-    disabled: false,
+    disabled: true,
     userId: "KGIAU - trgamingz - 06-06"
   }, {
     id: "SI9H7Y-EIU4C9-XBZC1T-YV09HF-L3VC2A",
@@ -894,7 +894,7 @@
     userId: "KTRIEUAUTO - chipzzz2428 - 12 -04"
   }, {
     id: "LZNMBX-7D2102-HX53PB-9IJOI7-38UPOX",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - chipzzz2428 - 12 -04"
   }, {
     id: "GGFS7S-7ZU1RN-QJJ3WD-MCQ3ZC-13H27A",
@@ -902,7 +902,7 @@
     userId: "KTRIEUAUTO - buonga99 - 12 -04"
   }, {
     id: "48C042-CX6HO1-ZX2GUX-CU23DA-C0VZE5",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - buonga99 - 12 -04"
   }, {
     id: "OGH7ZO-XZ4PN7-IXWPI0-BM6RHV-JFTQVD",
@@ -950,7 +950,7 @@
     userId: "KANHHUNG - suirbaby.drst - 13 -04"
   }, {
     id: "LOOI65-LJCL34-WA1CRD-28J9C1-4HGN4J",
-    disabled: false,
+    disabled: true,
     userId: "KANHHUNG - suirbaby.drst - 13 -04"
   }, {
     id: "XNZRRR-5B2PT3-5PH1UJ-1TZZ54-A1NUCE",
@@ -958,7 +958,7 @@
     userId: "KNGUYENTRI - hunzvn2506 - 14 -04"
   }, {
     id: "PGK5Y5-3LOP8Z-H8LAUD-GZMV4J-HJJ3WZ",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - huyenem336 - 14 -04"
   }, {
     id: "3MWS3N-DTCVVA-R9BI0L-JMJL8M-58PXZD",
@@ -978,7 +978,7 @@
     userId: "Kbangha -106648417 - 14 -04"
   }, {
     id: "RYQWC6-GFS91O-J78R63-5BJQ2S-UZ8412",
-    disabled: false,
+    disabled: true,
     userId: "Kbangha -106648417 - 14 -04"
   }, {
     id: "D6MJKV-PTSA5H-YZG12Z-OKEPVP-0IJ543",
@@ -1002,7 +1002,7 @@
     userId: "KBANGHA - 106743178 - 15 -04"
   }, {
     id: "M63KS8-S27FO6-L3NP7H-0VE9EB-PT1P8C",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA - 106743178 - 15 -04"
   }, {
     id: "4M6NMJ-X0Q65Z-OFL2UW-2X1AZU-2G3KSA",
@@ -1022,7 +1022,7 @@
     userId: "KTHANHVUONG TV - 0109_9X - 16 -04"
   }, {
     id: "LT6GKR-GMPI1G-S3ME8P-YIFB8S-G3YXWA",
-    disabled: false,
+    disabled: true,
     userId: "KTHANHVUONG TV - 0109_9X - 16 -04"
   }, {
     id: "82C33J-3ADD2A-5QLX5V-PRMSYZ-NHLDD7",
@@ -1030,7 +1030,7 @@
     userId: "KTRIEUAUTO -73 747 588 kimanhtran2x - 16 -04"
   }, {
     id: "KDR53S-ZC0Q0R-7J8I7V-7ASK8C-RY868N",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO -73 747 588 kimanhtran2x - 16 -04"
   }, {
     id: "4CEGU8-ASVF51-M0W95F-DDRKIX-Y4P1WG",
@@ -1046,11 +1046,11 @@
     userId: "KTRIEU-DinhThienZL - zyzyyn - 17 -04"
   }, {
     id: "T31JM9-ICMX6P-VIMHR5-XV61KC-6QZDW1",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEU-DinhThienZL - zyzyyn - 17 -04"
   }, {
     id: "D1RQEM-7GJWVK-S122HF-XETPZ4-XCHVHV",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - youno.men - 18 -04"
   }, {
     id: "UGTQMT-USV00X-02TIED-6ZFUKD-U25AW4",
@@ -1062,7 +1062,7 @@
     userId: "PHAT ZL - linhnef_182 - 18 -04"
   }, {
     id: "WW7UUS-F8POSH-TRDQV6-KNDV6H-XRUQDV",
-    disabled: false,
+    disabled: true,
     userId: "PHAT ZL - linhnef_182 - 18 -04"
   }, {
     id: "6BT7CB-DH4693-F5QGW1-L6EK2Y-3WWF8Z",
@@ -1070,7 +1070,7 @@
     userId: "KTRIEUAUTO - thng.com - 18 -04"
   }, {
     id: "ITC7SB-GU92RJ-SBOO0I-S0WYPB-2J5Q3V",
-    disabled: false,
+    disabled: true,
     userId: "KDINHDUY - thng.com - 20 -04"
   }, {
     id: "Y1FMUX-YH2Q3L-RXI8MR-6PO40X-B31HQ0",
@@ -1086,7 +1086,7 @@
     userId: "KVANCHUNG - chunchungaming1012 - 19 -04"
   }, {
     id: "IF90U0-86DRS2-6E3M82-WNJ730-2YX7MZ",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - tung4736 - 19 -04"
   }, {
     id: "QEKOY8-ARW58C-F8LPHR-SB0UHQ-IUQQIE",
@@ -1106,7 +1106,7 @@
     userId: "KTruc - huongem - huncute_0802 - 19 -04"
   }, {
     id: "WL4A97-QVODJH-2PB5GT-YCUTNV-EIVZNM",
-    disabled: false,
+    disabled: true,
     userId: "KTruc - huongem - Huong240802 huncute_0802 - 19 -04"
   }, {
     id: "DXOAFZ-O8O9CX-5OK7PQ-PE5F38-7Y0SEC",
@@ -1114,7 +1114,7 @@
     userId: "KTruc - tramem_29 - 19 -04"
   }, {
     id: "7SDVCV-D9HCDM-B2MXZT-32ARPM-0T8K4P",
-    disabled: false,
+    disabled: true,
     userId: "KTruc - tramem_29 - 19 -04"
   }, {
     id: "18SUKS-UKA4U8-GVSCI8-UQL3RH-LNHPUK",
@@ -1126,11 +1126,11 @@
     userId: "KTRIEUAUTO - nguyencute.0297 - 19 -04"
   }, {
     id: "AXOYEB-M26AXR-RZTOLF-IYN8C0-VR5OPW",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - nguyencute.0297 - 19 -04"
   }, {
     id: "NBY20K-WQIR7H-33TMQ8-Y63W6L-SSYKG1",
-    disabled: false,
+    disabled: true,
     userId: "HEO ZALO - heoo1707 - 20 -04"
   }, {
     id: "4I3CCA-N4H5V1-H82M3X-QS2ISK-QT5JUW",
@@ -1182,7 +1182,7 @@
     userId: "KTRIEUAUTO  - venom199xx - 22 -04"
   }, {
     id: "6Y2P5H-59DWZO-8LZ715-VICKNU-W3VTAG",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - venom199xx - 22 -04"
   }, {
     id: "YB5O88-77TEG4-T4MYFJ-340N5P-32CI6R",
@@ -1190,7 +1190,7 @@
     userId: "K NguyenLanChi  - baotoiday.99 - 22 -04"
   }, {
     id: "PV9YQ3-2UJ254-IV4TSJ-KLWO87-7S8CYA",
-    disabled: false,
+    disabled: true,
     userId: "K NguyenLanChi  - baotoiday.99 - 22 -04"
   }, {
     id: "44F1GM-KCGTKL-RB7358-F0H8K8-PHLSIN",
@@ -1210,11 +1210,11 @@
     userId: "LEMINHTRAN  - mckgaming666 - 26 -04"
   }, {
     id: "R6RZ6I-OAVS8I-OX734S-NHWX4V-BHVBP4",
-    disabled: false,
+    disabled: true,
     userId: "LEMINHTRAN  - mckgaming666 - 26 -04"
   }, {
     id: "TZDMBG-BF8K8J-UJJ7LN-IQRSE1-458S8N",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - thyvooi999 - 26 -04"
   }, {
     id: "VAK2CU-1I1TEY-VK83BH-PVELLJ-9YHHNN",
@@ -1234,7 +1234,7 @@
     userId: "TRUONGGIANG ZL  - kimd2323 - 28 -04"
   }, {
     id: "B2MXMP-MXGAQJ-4H84H9-8TAHK3-T9PPP1",
-    disabled: false,
+    disabled: true,
     userId: "TRUONGGIANG ZL  - kimd2323 - 28 -04"
   }, {
     id: "2P378D-ZOXB4X-HIS17J-RHN2XO-EPYYVF",
@@ -1242,7 +1242,7 @@
     userId: "KTRIEUAUTO  - mui.1010 - 29 -04"
   }, {
     id: "MEZS1B-R4VK58-UH0D72-24H64D-8AGOAW",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - mui.1010 - 29 -04"
   }, {
     id: "AU6BR8-HU7BD5-7NPNB8-QP4IQM-KMKVG8",
@@ -1250,7 +1250,7 @@
     userId: "KTRIEUAUTO  - thaihuy99 - 29 -04"
   }, {
     id: "75IX5J-WI6R1X-2EYIC8-QP8BKS-LW30Y5",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - thaihuy99 - 29 -04"
   }, {
     id: "J5GU4N-ISV0SN-NCEKZI-XW6QML-CB42TJ",
@@ -1270,11 +1270,11 @@
     userId: "KTRIEUAUTO  - uservodanh9 - 30 -04"
   }, {
     id: "EPLJKT-YM34EZ-HP02FZ-CYU70I-REG5WM",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - uservodanh9 - 30 -04"
   }, {
     id: "2NMYA1-JYQP4E-NHKOY3-3S4NZ5-2HZ6BI",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - tieunguyetne - 01 - 05"
   }, {
     id: "CSKQDB-8A8SEV-I2FWTL-G6BM9I-4L7MFT",
@@ -1286,11 +1286,11 @@
     userId: "kjAY - kATINAT  - 22099549 - 01-05"
   }, {
     id: "GGU84D-EJI1K9-XSAN9V-6573TJ-UJRQC1",
-    disabled: false,
+    disabled: true,
     userId: "MinhTienzl - minigame6868 - 01-05"
   }, {
     id: "7EYQSF-4AST3S-I7G4HQ-2TVOO5-YCBWED",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - klonqq - 01 - 05"
   }, {
     id: "LVXBLN-T7QL5S-XSL669-QTSDC9-65BR0Y",
@@ -1302,7 +1302,7 @@
     userId: "KTRIEUAUTO  - kalista.1102 - 02 - 05"
   }, {
     id: "7C2ZHY-PTBXEV-SBGU29-2UKFPI-N24FK6",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - vualydon.8386 - 02 - 05"
   }, {
     id: "N7Z1Y8-Y7KD0W-ZZLMXS-21VHKX-1YM42S",
@@ -1310,7 +1310,7 @@
     userId: "KNGTRI  - @theo070795 - 2504-2024"
   }, {
     id: "EOYR9U-0VG1BY-TDWG7B-Z39Y81-TD0TIT",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - tienkho_khao  - 03 - 05"
   }, {
     id: "JMR1NO-NLLSZI-LQJ2KN-9J8MU7-VFLHS3",
@@ -1322,7 +1322,7 @@
     userId: "KTRIEUAUTO  - dota2cungem7nhe  - 03 - 05"
   }, {
     id: "12QZ5X-E5BPBY-GHIG6O-714IQ5-RY1Q7K",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA  - batrang2024  - 04- 05"
   }, {
     id: "ZZVTRP-78Z4DW-LRZGR7-WE2L99-V78F4Y",
@@ -1334,7 +1334,7 @@
     userId: "kbangha  - 2pm.h.ni  - 05- 05"
   }, {
     id: "MBHJSO-8ACZJ2-9GL4WC-G2LVFL-Q9CY6Q",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - khongbietdegi0207  - 05 - 05"
   }, {
     id: "D3F8VY-389Y3J-SUUGMK-9ZWESC-TX76DT",
@@ -1358,11 +1358,11 @@
     userId: "KTUNGNE  - lecongduchuy  - 08 - 05"
   }, {
     id: "UIAHUB-SDMM5X-R81I22-TIS4QA-WU34RA",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - candyanna104  - 09 - 05"
   }, {
     id: "VOM090-MO2UY2-Y1IN2Q-UBCIXO-P4ZXUP",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - chungminecraft  - 09 - 05"
   }, {
     id: "S4YLU4-31R79J-J7CSXY-8XRYET-I6BD07",
@@ -1370,7 +1370,7 @@
     userId: "KTRIEUAUTO  - abugamingvn  - 09 - 05"
   }, {
     id: "CIO6ER-GOYF38-SYZYFC-OMT9IE-218F41",
-    disabled: false,
+    disabled: true,
     userId: "KTUNGNE  - yatouhime12  - 10 - 05"
   }, {
     id: "6KP029-GM22XY-ETV41O-6192MR-O3ZF47",
@@ -1386,7 +1386,7 @@
     userId: "KTRIEUAUTO  - thien_thtrang145967  - 10 - 05"
   }, {
     id: "XZJZDQ-JZVNSC-AUVDR6-YK0W7D-SFU0BQ",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - conon.08  - 11 - 05"
   }, {
     id: "YFBXP1-1JO8GC-P3OV09-4W6OCD-FTWU95",
@@ -1434,75 +1434,75 @@
     userId: "KTUNGNE  - hthc030900  - 16 - 05"
   }, {
     id: "NNGGAF-C9S0RP-ZT1L1T-I1SW1K-1GLFZ6",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - 108948320  - 15 - 05"
   }, {
     id: "727L2L-X4KJ6E-G8P5YY-MTKB1R-PBGTS3",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - 45709104  - 17 - 05"
   }, {
     id: "X35BBZ-0EEUH3-DPTXY2-ROQLJ5-VMGO96",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - dunek080  - 17 - 05"
   }, {
     id: "GL3BL6-RQCAC2-4V24BF-3XRYDG-F23ZD4",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - trangtuyen1401  - 17 - 05"
   }, {
     id: "I3HXCQ-51RXTX-2AECMC-XOLG7C-8S1EEF",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - maiphuong19_12  - 19 - 05"
   }, {
     id: "9G0I64-PDX3O1-831KK7-2U1J7N-RMCTEU",
-    disabled: false,
+    disabled: true,
     userId: "K UYEN BABY  - uyenbaby2k6  - 19 - 05"
   }, {
     id: "QQNM2J-STQ6X3-CMGR11-SAMWUR-ASYSQ8",
-    disabled: false,
+    disabled: true,
     userId: "K DUCTAMZL  - bongdayne060  - 19 - 05"
   }, {
     id: "4GQY8R-K2P2N1-A0LWNV-68TY75-UHHH0J",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  -tusuongg  - 19 - 05"
   }, {
     id: "IDVKXL-5KID6F-NNIHW2-N8PTP6-0QRF47",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA 101962174 b.cheng99  - 20 - 05"
   }, {
     id: "MY2NOC-EGWJFX-H2RFGH-9HVWR0-BII36F",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - 109209842  - 20 - 05"
   }, {
     id: "5MT9BH-L43WH6-8AECX4-1UFL9N-DG15DS",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - chery090900  - 20 - 05"
   }, {
     id: "92V8FG-R5F2BD-1C2233-49TBG4-L3C1PN",
-    disabled: false,
+    disabled: true,
     userId: "KMELON  - thyiene.28  - 20 - 05"
   }, {
     id: "YKBNKD-E5N9S2-URUAG5-OGRE0R-IGB0D5",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA  -  embeesuy  - 22 - 05"
   }, {
     id: "1HKV35-WM7TT0-5ME93B-TTF6E4-Y7BEHG",
-    disabled: false,
+    disabled: true,
     userId: "KTUNGNE  -  _not.uwu_  - 23 - 05"
   }, {
     id: "MDAFWK-NU7RJO-0CRBH8-4AAYLQ-UD6FFM",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - a.vy18  - 24 - 05"
   }, {
     id: "VLUC5G-BQLOB1-R6LZ9J-N78YMR-B83934",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - vivibaby_official  - 24 - 05"
   }, {
     id: "TYIBF4-K831RP-4WLMEY-YSYAOV-19XRBM",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA  - ellale68  - 24 - 05"
   }, {
     id: "WRQZC7-L00BLX-ESIP1X-UPLCFL-UNEBC4",
-    disabled: false,
+    disabled: true,
     userId: "KTUNGNE  - vyvyxinhxan  - 25 - 05  up1605"
   }, {
     id: "KMBN05-LKCT2F-4PJ6ZE-RB979O-LOI06C",
@@ -1514,31 +1514,31 @@
     userId: "KTUNGNE  - vyvyxinhxan  - 25 - 05"
   }, {
     id: "XQ2337-20254A-SY6JAG-MD6ZEX-W0K55G",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA  - ducmtk12 - 25 - 05"
   }, {
     id: "Q1YPF1-STMS55-JGJG7B-2Y9MMP-23040B",
-    disabled: false,
+    disabled: true,
     userId: "LUONGHUUZL  - luonghuugaming - 26 - 05"
   }, {
     id: "UIAFRY-XJ1D8V-OK9DAD-CXOJV7-6UW4WN",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA  - minbe.2k - 26 - 05"
   }, {
     id: "BC2DID-8TBEV3-VCPXJ7-9WQJJK-TX4AR8",
-    disabled: false,
+    disabled: true,
     userId: "KTUNGNE  - anhbecafe - 26 - 05"
   }, {
     id: "7HMWP1-3AMHXQ-3R1YH9-71X34M-9EDOOH",
-    disabled: false,
+    disabled: true,
     userId: "KTHUNI  - IIIKENII - 26 - 05"
   }, {
     id: "EZ6KYA-VUFBCI-2WQI6F-5J86E5-2BGBK5",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - mr_dungbip  - 28 - 05"
   }, {
     id: "9M36VV-EXT815-023YR7-9P5SFI-0R6F8X",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA  - caubebutchi_173  - 28 - 05"
   }, {
     id: "F7Y0SD-2YQZDF-CSR6ID-BS84KT-76C2Y4",
@@ -1546,11 +1546,11 @@
     userId: "KTRIEUAUTO  - tom16.dc  - 28 - 05"
   }, {
     id: "7751ZM-3GAIN7-V6SERE-E42T4P-YCMGE0",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - tom16.dc  - 28 - 05"
   }, {
     id: "MJP73O-8POP93-EC05RI-TD1KC9-LA1UOC",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA  - Huy  - 29 - 05"
   }, {
     id: "6D7UPC-9VW9MC-YN2ROF-COI09M-5K2WIG",
@@ -1558,171 +1558,171 @@
     userId: "KTUNGNE  - vyvyxinhxan  - 29 - 05"
   }, {
     id: "W8J9WH-GDOPMR-CRHX8K-NKFF11-JL9L3A",
-    disabled: false,
+    disabled: true,
     userId: "KTUNGNE  - vyvyxinhxan  - 29 - 05 - up 1605"
   }, {
     id: "SMUYNI-3Z61NL-7HJLEE-9MVV0R-Q8EL05",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - vietlong22042000  - 29 - 05"
   }, {
     id: "3S0TZA-XTEMPM-XCJI0B-PTHLZR-JYT6U9",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO  - ebesulyn  - 29 - 05"
   }, {
     id: "JFGQA2-BGOAXV-DZ837X-91I40O-RP3QKW",
-    disabled: false,
+    disabled: true,
     userId: "HAONHIENZL - nhaonhien_370  - 02-06"
   }, {
     id: "Q6YDCV-1MFEL0-PQ7D6V-2ICNOA-HQT0AN",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA - lecao999 - 02-06"
   }, {
     id: "BPZXYS-RQUMLC-CIGZYV-VZ41KE-S8V7RN",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - benu200x - 02-06"
   }, {
     id: "WC2XO0-S8ZRVA-9030ZC-XQEYYU-KKG7D1",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - pmd.lemon0711 - 03-06"
   }, {
     id: "BDM76F-O5MR0W-3PTOLZ-WVC9FL-ALTRAE",
-    disabled: false,
+    disabled: true,
     userId: "KBANGHA - TUANLUCASOFFCIAL - 04-06"
   }, {
     id: "DCW60P-E68EQ0-JG2GJ9-RM9UVA-1RRZD3",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - nguyenxuanquynb - 04-06"
   }, {
     id: "ZWBEIW-E3PUAY-Y5WYZK-U0ZCFB-XU4LP0",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - ms.2611 - 04-06"
   }, {
     id: "UMJ4VK-MUIJZU-99AMGY-XPICLK-1LVHCG",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - bechuot961 - 04-06"
   }, {
     id: "20S2U4-A40Q1G-YRCFPC-IB6XRK-GOIZTT",
-    disabled: false,
+    disabled: true,
     userId: "KTUNGNE - visstreaming - 04-06"
   }, {
     id: "OEIQIS-HRB84Z-UQ9YN1-1H1U9P-NHKOW1",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - nhantunnn - 06-06"
   }, {
     id: "R0YNM1-0U2O7W-COOTAK-RFNWGL-N4EHZY",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - nacuti.05 - 06-06"
   }, {
     id: "C7AZ7Z-6EMWI3-0A6BU4-KDVGR5-9K2MZN",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - hera.codang - 06-06"
   }, {
     id: "9LMEIZ-HP44ES-ERYXEP-VB238J-V61ZHA",
-    disabled: false,
+    disabled: true,
     userId: "KTUNGNE - lv_1707dt - 06-06"
   }, {
     id: "B65PZ1-1GC435-4XX80T-2RG4JS-6MX47F",
-    disabled: false,
+    disabled: true,
     userId: "K HUU - 106721522 - 07-06"
   }, {
     id: "XKTKCB-WI0IQF-IDL7RK-GSTVWB-BKDGRO",
-    disabled: false,
+    disabled: true,
     userId: "K HUU - 106721522 - 07-06"
   }, {
     id: "RYNV3G-GQ94F9-VM4PBB-5ZOSV8-I1212S",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - 19trung19 - 07-06"
   }, {
     id: "0CQLCO-3FVQTA-8ZPQ60-0MPD7V-PUTJQA",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - ngoan2k1_ - 08-06"
   }, {
     id: "RTZSL3-506T4D-1O687F-5OYE6Q-4QUTEZ",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - maymannhe1209 - 08-06"
   }, {
     id: "RVQ0UI-2F2NVR-ZV3DYE-N0T727-R7GIA1",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - congbang08386 - 09-06"
   }, {
     id: "5SDIVX-6KFZOH-NWVLBL-L1OZNC-6TB4V7",
-    disabled: false,
+    disabled: true,
     userId: "KTHANHONL - phuoctv88888 - 09-06"
   }, {
     id: "YI1UHV-0CH9AE-89KR9T-231XIP-YBB6H2",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - snake.tuan.1st - 09-06"
   }, {
     id: "9QX17Z-06AGAW-A9HYMW-RBQS2J-0EAHL7",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - dumneday_110900 - 09-06"
   }, {
     id: "JA128E-VKL0LC-PM4GEE-EZN2TH-1UFKN9",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - ngcaobac - 10-06"
   }, {
     id: "N2T82I-4ZAT14-0318O2-BXB17V-GPU8E2",
-    disabled: false,
+    disabled: true,
     userId: "KCHUOT - thuymohon21 - 10-06"
   }, {
     id: "4TF3GW-FHMYLF-SRP5XC-EO4DR1-ANTG1I",
-    disabled: false,
+    disabled: true,
     userId: "KCHUOT - nghiem_tiger - 10-06"
   }, {
     id: "CH2NBP-7VT4N0-9SA1OH-JN72JY-BE4NPP",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - nambanguyen.211 - 10-06"
   }, {
     id: "8GWJGG-7WS49R-TR64OL-05QI27-DU0R3P",
-    disabled: false,
+    disabled: true,
     userId: "KGIAU - dungnguyen_17_05 - 10-06"
   }, {
     id: "WXZQXK-6S5L0H-EQVTN8-NF7I8X-E9BPZR",
-    disabled: false,
+    disabled: true,
     userId: "KAFENG - mie.amii - 11-06"
   }, {
     id: "HAVU9N-PRCAZN-RL5MV4-Q6GW3N-A6M9EK",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - 104352825 - 12-06"
   }, {
     id: "SCNUDS-GKXVSG-9DL7XE-C5WVYT-W1L0V8",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - kimtho2k33 - 12-06"
   }, {
     id: "ZD0DRL-R1PI48-APXGC6-Z2DI1F-QIM4VA",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - sl.gaming17 - 12-06"
   }, {
     id: "JT0PL1-O07KJL-GDS7NH-9Y26WD-CT8PCS",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - thiendi2509 - 13-06"
   }, {
     id: "Q3RA13-Y7XVFU-DPC2B0-7OG5B6-M53REB",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - 110700033 - 13-06"
   }, {
     id: "67HYGJ-85LB6I-LL0BH3-H289RM-04T9RO",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - nhuys_2k - 13-06"
   }, {
     id: "H7H1RH-JX99G1-63BNEL-LSREGY-3L328B",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - coibacbling - 13-06"
   }, {
     id: "D4WLNK-U9KBBC-ZWNMUL-ACALI8-QFKJKH",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - kim.phng.vlog - 13-06"
   }, {
     id: "AY9FGR-TBLISN-IG11FK-DANW11-E5MTMS",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - haogaming97 - 16-06"
   }, {
     id: "UVHUS2-7PPM2V-4ZAGDC-WNURIH-51ML1J",
-    disabled: false,
+    disabled: true,
     userId: "KMELON - nvt_black - 16-06"
   }, {
     id: "6APHW7-VJYO9B-VZM94B-RNE7CX-WWXB1N",
-    disabled: false,
+    disabled: true,
     userId: "KTRIEUAUTO - dung0hay - 17-06"
   }
 
