@@ -20,7 +20,7 @@
     userId: "KTRIEUAUTO - quaidanthit - VER 3 - 03-04"
   }, {
     id: "YUBRBI-H8FGA6-L34KTC-80HJ8N-49QZ1R",
-    disabled: false,
+    disabled: true,
     userId: "LYTHIEN - VER 3 - 03-04"
   }
 
