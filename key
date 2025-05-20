@@ -604,8 +604,8 @@
     disabled: true,
     userId: "KTRIEUAUTO  - ngc.nail.box datlinh1997 - 1603"
   }, {
-    id: "D78LT3-HO1E0Y-9JI8Q0-3KWCK9-4R3D23",
-    disabled: false,
+    id: "D78LT3-HO1E0Y-9JI8Q0-3KWCK9-4R3D23-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO  - ngc.nail.box datlinh1997 - 1603"
   }, {
     id: "73NKP7-G40H4Q-TOX4FG-2K82Q0-8OSECE",
@@ -1096,16 +1096,16 @@
     disabled: true,
     userId: "PHAT ZL - linhnef_182 - 18 -04"
   }, {
-    id: "WW7UUS-F8POSH-TRDQV6-KNDV6H-XRUQDV",
-    disabled: false,
+    id: "WW7UUS-F8POSH-TRDQV6-KNDV6H-XRUQDV-hethan",
+    disabled: true,
     userId: "PHAT ZL - linhnef_182 - 18 -04"
   }, {
     id: "6BT7CB-DH4693-F5QGW1-L6EK2Y-3WWF8Z",
     disabled: true,
     userId: "KTRIEUAUTO - thng.com - 18 -04"
   }, {
-    id: "ITC7SB-GU92RJ-SBOO0I-S0WYPB-2J5Q3V",
-    disabled: false,
+    id: "ITC7SB-GU92RJ-SBOO0I-S0WYPB-2J5Q3V-hethan",
+    disabled: true,
     userId: "KDINHDUY - thng.com - 20 -04"
   }, {
     id: "Y1FMUX-YH2Q3L-RXI8MR-6PO40X-B31HQ0",
@@ -1500,12 +1500,12 @@
     disabled: true,
     userId: "KTRIEUAUTO  -tusuongg  - 19 - 05"
   }, {
-    id: "IDVKXL-5KID6F-NNIHW2-N8PTP6-0QRF47",
-    disabled: false,
+    id: "IDVKXL-5KID6F-NNIHW2-N8PTP6-0QRF47-hethan",
+    disabled: true,
     userId: "KBANGHA 101962174 b.cheng99  - 20 - 05"
   }, {
-    id: "MY2NOC-EGWJFX-H2RFGH-9HVWR0-BII36F",
-    disabled: false,
+    id: "MY2NOC-EGWJFX-H2RFGH-9HVWR0-BII36F-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO  - 109209842  - 20 - 05"
   }, {
     id: "5MT9BH-L43WH6-8AECX4-1UFL9N-DG15DS",
