@@ -1064,8 +1064,8 @@
     disabled: true,
     userId: "KTRIEUAUTO -73 747 588 kimanhtran2x - 16 -04"
   }, {
-    id: "KDR53S-ZC0Q0R-7J8I7V-7ASK8C-RY868N",
-    disabled: false,
+    id: "KDR53S-ZC0Q0R-7J8I7V-7ASK8C-RY868N-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO -73 747 588 kimanhtran2x - 16 -04"
   }, {
     id: "4CEGU8-ASVF51-M0W95F-DDRKIX-Y4P1WG",
@@ -1560,12 +1560,12 @@
     disabled: false,
     userId: "KBANGHA  - minbe.2k - 26 - 05"
   }, {
-    id: "BC2DID-8TBEV3-VCPXJ7-9WQJJK-TX4AR8",
-    disabled: false,
+    id: "BC2DID-8TBEV3-VCPXJ7-9WQJJK-TX4AR8-hethan",
+    disabled: true,
     userId: "KTUNGNE  - anhbecafe - 26 - 05"
   }, {
-    id: "7HMWP1-3AMHXQ-3R1YH9-71X34M-9EDOOH",
-    disabled: false,
+    id: "7HMWP1-3AMHXQ-3R1YH9-71X34M-9EDOOH-hethan",
+    disabled: true,
     userId: "KTHUNI  - IIIKENII - 26 - 05"
   }, {
     id: "EZ6KYA-VUFBCI-2WQI6F-5J86E5-2BGBK5",
