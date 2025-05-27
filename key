@@ -420,8 +420,8 @@
     disabled: true,
     userId: "KLUYEN - _ebes01 - 2202"
   }, {
-    id: "7GJIAW-EMZC03-RWF92K-US2VLX-RKS3XN",
-    disabled: false,
+    id: "7GJIAW-EMZC03-RWF92K-US2VLX-RKS3XN-hethan",
+    disabled: true,
     userId: "KMelon - thanhthuy9v9 - 2602"
   }, {
     id: "C6WT4U-DVWDGB-2HWF2P-4RJABD-2G1HYO",
@@ -1140,8 +1140,8 @@
     disabled: true,
     userId: "KTruc - huongem - huncute_0802 - 19 -04"
   }, {
-    id: "WL4A97-QVODJH-2PB5GT-YCUTNV-EIVZNM",
-    disabled: false,
+    id: "WL4A97-QVODJH-2PB5GT-YCUTNV-EIVZNM-hethan",
+    disabled: true,
     userId: "KTruc - huongem - Huong240802 huncute_0802 - 19 -04"
   }, {
     id: "DXOAFZ-O8O9CX-5OK7PQ-PE5F38-7Y0SEC",
@@ -1216,8 +1216,8 @@
     disabled: true,
     userId: "KTRIEUAUTO  - venom199xx - 22 -04"
   }, {
-    id: "6Y2P5H-59DWZO-8LZ715-VICKNU-W3VTAG",
-    disabled: false,
+    id: "6Y2P5H-59DWZO-8LZ715-VICKNU-W3VTAG-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO  - venom199xx - 22 -04"
   }, {
     id: "YB5O88-77TEG4-T4MYFJ-340N5P-32CI6R",
