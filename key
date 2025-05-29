@@ -736,12 +736,12 @@
     disabled: false,
     userId: "MinhXu - funnygame002 - 01-04"
   }, {
-    id: "1T683R-4OY4FB-QEZ571-7LY7Q4-0JD7QL",
-    disabled: false,
+    id: "1T683R-4OY4FB-QEZ571-7LY7Q4-0JD7QL-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO - pepi.2912 - 01-04"
   },{
-    id: "XE9853-90MLZA-PL86E1-LUEOCV-5L527N",
-    disabled: false,
+    id: "XE9853-90MLZA-PL86E1-LUEOCV-5L527N-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO - pepi.2912 - 01-04"
   }, {
     id: "UW30D3-1O93EP-Y68KUB-CY96YL-HTT1IJ",
@@ -1304,12 +1304,12 @@
     disabled: true,
     userId: "KTRIEUAUTO  - uservodanh9 - 30 -04"
   }, {
-    id: "EPLJKT-YM34EZ-HP02FZ-CYU70I-REG5WM",
-    disabled: false,
+    id: "EPLJKT-YM34EZ-HP02FZ-CYU70I-REG5WM-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO  - uservodanh9 - 30 -04"
   }, {
-    id: "2NMYA1-JYQP4E-NHKOY3-3S4NZ5-2HZ6BI",
-    disabled: false,
+    id: "2NMYA1-JYQP4E-NHKOY3-3S4NZ5-2HZ6BI-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO  - tieunguyetne - 01 - 05"
   }, {
     id: "CSKQDB-8A8SEV-I2FWTL-G6BM9I-4L7MFT",
@@ -1324,8 +1324,8 @@
     disabled: false,
     userId: "MinhTienzl - minigame6868 - 01-05"
   }, {
-    id: "7EYQSF-4AST3S-I7G4HQ-2TVOO5-YCBWED",
-    disabled: false,
+    id: "7EYQSF-4AST3S-I7G4HQ-2TVOO5-YCBWED-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO  - klonqq - 01 - 05"
   }, {
     id: "LVXBLN-T7QL5S-XSL669-QTSDC9-65BR0Y",
@@ -1336,8 +1336,8 @@
     disabled: true,
     userId: "KTRIEUAUTO  - kalista.1102 - 02 - 05"
   }, {
-    id: "7C2ZHY-PTBXEV-SBGU29-2UKFPI-N24FK6",
-    disabled: false,
+    id: "7C2ZHY-PTBXEV-SBGU29-2UKFPI-N24FK6-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO  - vualydon.8386 - 02 - 05"
   }, {
     id: "N7Z1Y8-Y7KD0W-ZZLMXS-21VHKX-1YM42S - HETHAN",
@@ -1608,8 +1608,8 @@
     disabled: true,
     userId: "HAONHIENZL - nhaonhien_370  - 02-06"
   }, {
-    id: "Q6YDCV-1MFEL0-PQ7D6V-2ICNOA-HQT0AN",
-    disabled: false,
+    id: "Q6YDCV-1MFEL0-PQ7D6V-2ICNOA-HQT0AN-hethan",
+    disabled: true,
     userId: "KBANGHA - lecao999 - 02-06"
   }, {
     id: "BPZXYS-RQUMLC-CIGZYV-VZ41KE-S8V7RN",
