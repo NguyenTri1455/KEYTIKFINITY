@@ -11,8 +11,8 @@
     disabled: false,
     userId: "KTRIEUAUTO - chjbaeday - VER3 - 0903"
   }, {
-    id: "VJJUZJ-TTJOQ3-WAFR0Q-KHWBQT-E470XX",
-    disabled: false,
+    id: "VJJUZJ-TTJOQ3-WAFR0Q-KHWBQT-E470XX-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO - quaidanthit - VER 3 - 03-04"
   }, {
     id: "4JWWQ4-9XGTF4-SQ4GMN-LQ8CP5-BZWLT8",
@@ -216,7 +216,7 @@
     disabled: true,
     userId: "mrbugaming-1201 - hethan"
   }, {
-    id: "CR3URT-M3KFJ4-25TE1N-Q0LCH5-ZGG58I",
+    id: "CR3URT-M3KFJ4-25TE1N-Q0LCH5-ZGG58I-hethan",
     disabled: true,
     userId: "Kngtri 97819077  oanh.oanh15804-1203"
   }, {
@@ -440,11 +440,11 @@
     disabled: true,
     userId: "kmELON capybara1508  - 0303"
   }, {
-    id: "YYIGJ2-VTUVW3-PSJZZY-A3ARXR-P3A6Y1",
+    id: "YYIGJ2-VTUVW3-PSJZZY-A3ARXR-P3A6Y1-hethan",
     disabled: true,
     userId: "kmELON capybara1508  - 0303"
   }, {
-    id: "7CG2MH-XK4QKA-LZZFAA-78VRP7-I8SWGG",
+    id: "7CG2MH-XK4QKA-LZZFAA-78VRP7-I8SWGG-hethan",
     disabled: false,
     userId: "kmELON capybara1508  - 0303"
   }, {
@@ -872,12 +872,12 @@
     disabled: false,
     userId: "KGIAU - SOAISUNGSUC - 06-04 up1605"
   }, {
-    id: "1QQ20T-SW0HAP-QZIIQM-U1D70K-S1KYL0",
-    disabled: false,
+    id: "1QQ20T-SW0HAP-QZIIQM-U1D70K-S1KYL0-hethan",
+    disabled: true,
     userId: "KGIAU - trgamingz - 06-06"
   }, {
-    id: "7NA06V-BVX7W7-DLIXBZ-B3NHA5-ZYV6HI",
-    disabled: false,
+    id: "7NA06V-BVX7W7-DLIXBZ-B3NHA5-ZYV6HI-hethan",
+    disabled: true,
     userId: "KGIAU - trgamingz - 06-06"
   }, {
     id: "SI9H7Y-EIU4C9-XBZC1T-YV09HF-L3VC2A",
@@ -1616,8 +1616,8 @@
     disabled: false,
     userId: "KTRIEUAUTO - benu200x - 02-06"
   }, {
-    id: "WC2XO0-S8ZRVA-9030ZC-XQEYYU-KKG7D1",
-    disabled: false,
+    id: "WC2XO0-S8ZRVA-9030ZC-XQEYYU-KKG7D1-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO - pmd.lemon0711 - 03-06"
   }, {
     id: "BDM76F-O5MR0W-3PTOLZ-WVC9FL-ALTRAE",
@@ -1636,12 +1636,12 @@
     disabled: false,
     userId: "KTRIEUAUTO - bechuot961 - 04-06"
   }, {
-    id: "20S2U4-A40Q1G-YRCFPC-IB6XRK-GOIZTT",
-    disabled: false,
+    id: "20S2U4-A40Q1G-YRCFPC-IB6XRK-GOIZTT-hethan",
+    disabled: true,
     userId: "KTUNGNE - visstreaming - 04-06"
   }, {
-    id: "OEIQIS-HRB84Z-UQ9YN1-1H1U9P-NHKOW1",
-    disabled: false,
+    id: "OEIQIS-HRB84Z-UQ9YN1-1H1U9P-NHKOW1-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO - nhantunnn - 06-06"
   }, {
     id: "R0YNM1-0U2O7W-COOTAK-RFNWGL-N4EHZY",
@@ -1664,8 +1664,8 @@
     disabled: false,
     userId: "K HUU - 106721522 - 07-06"
   }, {
-    id: "RYNV3G-GQ94F9-VM4PBB-5ZOSV8-I1212S",
-    disabled: false,
+    id: "RYNV3G-GQ94F9-VM4PBB-5ZOSV8-I1212S-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO - 19trung19 - 07-06"
   }, {
     id: "0CQLCO-3FVQTA-8ZPQ60-0MPD7V-PUTJQA",
@@ -1676,12 +1676,12 @@
     disabled: false,
     userId: "KTRIEUAUTO - maymannhe1209 - 08-06"
   }, {
-    id: "RVQ0UI-2F2NVR-ZV3DYE-N0T727-R7GIA1",
-    disabled: false,
+    id: "RVQ0UI-2F2NVR-ZV3DYE-N0T727-R7GIA1-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO - congbang08386 - 09-06"
   }, {
-    id: "5SDIVX-6KFZOH-NWVLBL-L1OZNC-6TB4V7",
-    disabled: false,
+    id: "5SDIVX-6KFZOH-NWVLBL-L1OZNC-6TB4V7-hethan",
+    disabled: true,
     userId: "KTHANHONL - phuoctv88888 - 09-06"
   }, {
     id: "YI1UHV-0CH9AE-89KR9T-231XIP-YBB6H2",
@@ -1716,8 +1716,8 @@
     disabled: false,
     userId: "KAFENG - mie.amii - 11-06"
   }, {
-    id: "HAVU9N-PRCAZN-RL5MV4-Q6GW3N-A6M9EK",
-    disabled: false,
+    id: "HAVU9N-PRCAZN-RL5MV4-Q6GW3N-A6M9EK-hethan",
+    disabled: true,
     userId: "KTRIEUAUTO - 104352825 - 12-06"
   }, {
     id: "SCNUDS-GKXVSG-9DL7XE-C5WVYT-W1L0V8-HETHAN",
@@ -1752,8 +1752,8 @@
     disabled: false,
     userId: "KTRIEUAUTO - haogaming97 - 16-06"
   }, {
-    id: "UVHUS2-7PPM2V-4ZAGDC-WNURIH-51ML1J",
-    disabled: false,
+    id: "UVHUS2-7PPM2V-4ZAGDC-WNURIH-51ML1J-hethan",
+    disabled: true,
     userId: "KMELON - nvt_black - 16-06"
   }, {
     id: "6APHW7-VJYO9B-VZM94B-RNE7CX-WWXB1N",
